@@ -19,7 +19,8 @@ from sklearn.ensemble import RandomForestClassifier
 # ---------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("/content/student_career_guidance_dataset_1000.csv")
+    df = pd.read_csv('student_career_guidance_dataset_1000.csv')
+
     return df
 
 df = load_data()
