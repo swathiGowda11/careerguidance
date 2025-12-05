@@ -12,7 +12,8 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df=pd.read_csv('/content/student_career_guidance_dataset_1000.csv')
+df = pd.read_csv('student_career_guidance_dataset_1000.csv')
+
 
 df.columns
 
