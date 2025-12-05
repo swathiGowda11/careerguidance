@@ -462,21 +462,5 @@ if st.button('Predict Suggested Career'):
 st.write("--- ")
 st.write("**Note:** The model's accuracy is low (around 13%). The predictions should be interpreted with caution.")
 
-!pip install streamlit
 
-"""# Task
-Generate the complete Python code for a Streamlit application. The application should load the student career guidance dataset, perform the necessary feature engineering (one-hot encoding for categorical features), train a `RandomForestClassifier` model (using the best parameters found by `GridSearchCV` in the notebook, which are `n_estimators=100`, `max_depth=None`, `min_samples_split=2`, `min_samples_leaf=2`), and provide a prediction interface for 'Suggested_Career'. The interface should allow users to input values for 'Interests', 'Strengths', 'Skills', 'Marks', 'Personality', 'Goals', 'Budget', 'Recommended_Course', and 'Scholarship_Option' and display the predicted career.
 
-The data should be loaded from the file `/content/student_career_guidance_dataset_1000.csv`.
-
-## Streamlit Application Code
-
-### Subtask:
-Generate the complete Python code for a Streamlit application that includes data loading, feature engineering, model training, and a prediction interface for 'Suggested_Career'.
-
-## Summary:
-
-### Insights or Next Steps
-*   The Streamlit application provides an interactive interface for users to input student data and receive a predicted career based on a pre-trained `RandomForestClassifier` model.
-*   The application incorporates essential data preprocessing steps, such as one-hot encoding for categorical features, ensuring that user inputs are correctly transformed for model prediction.
-"""
