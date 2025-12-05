@@ -1,0 +1,1001 @@
+Student_ID,Interests,Strengths,Skills,Marks,Personality,Goals,Budget,Suggested_Career,Recommended_Course,Scholarship_Option
+1,Maths,Communication,Java,97,Introvert,Start a business,High,Software Engineer,Business Management,National Merit Scholarship
+2,Arts,Analysis,Biology,79,Extrovert,Develop new skills,High,Doctor,Graphic Design,National Merit Scholarship
+3,Science,Problem Solving,Drawing,88,Extrovert,Higher studies,Medium,Data Analyst,Data Science Intro,Need-based Aid
+4,Arts,Analysis,Physics,54,Introvert,Develop new skills,High,Entrepreneur,Biology 101,STEM Scholarship
+5,Science,Communication,Public Speaking,94,Extrovert,Get a good job,High,Data Analyst,Business Management,Need-based Aid
+6,Business,Leadership,Python,87,Ambivert,Get a good job,Medium,Doctor,Data Science Intro,National Merit Scholarship
+7,Medicine,Analysis,Statistics,65,Ambivert,Get a good job,Low,Data Analyst,Python Basics,Need-based Aid
+8,Science,Problem Solving,Statistics,88,Introvert,Higher studies,Low,Doctor,Biology 101,National Merit Scholarship
+9,Arts,Problem Solving,Java,69,Introvert,Get a good job,Medium,Teacher,Graphic Design,Need-based Aid
+10,Maths,Leadership,Drawing,100,Extrovert,Get a good job,Medium,Data Analyst,Graphic Design,National Merit Scholarship
+11,Sports,Leadership,Public Speaking,100,Introvert,Develop new skills,High,Entrepreneur,Business Management,Arts Talent Scholarship
+12,Technology,Communication,Python,50,Ambivert,Develop new skills,Medium,Teacher,Graphic Design,Need-based Aid
+13,Technology,Analysis,Physics,93,Extrovert,Develop new skills,High,Teacher,Python Basics,National Merit Scholarship
+14,Business,Analysis,Python,60,Introvert,Get a good job,Medium,Teacher,Math Foundations,Need-based Aid
+15,Arts,Problem Solving,Public Speaking,95,Introvert,Start a business,Low,Designer,Graphic Design,National Merit Scholarship
+16,Science,Communication,Biology,52,Ambivert,Start a business,Medium,Software Engineer,Data Science Intro,STEM Scholarship
+17,Business,Analysis,Physics,60,Extrovert,Develop new skills,Medium,Designer,Biology 101,Need-based Aid
+18,Science,Problem Solving,Python,52,Extrovert,Start a business,Medium,Entrepreneur,Graphic Design,Arts Talent Scholarship
+19,Sports,Analysis,Marketing,55,Introvert,Develop new skills,Low,Software Engineer,Python Basics,National Merit Scholarship
+20,Business,Logical Thinking,Statistics,99,Introvert,Start a business,Low,Designer,Business Management,Arts Talent Scholarship
+21,Technology,Analysis,Marketing,57,Extrovert,Develop new skills,High,Designer,Python Basics,National Merit Scholarship
+22,Medicine,Logical Thinking,Python,80,Ambivert,Start a business,High,Teacher,Business Management,National Merit Scholarship
+23,Medicine,Communication,Python,63,Introvert,Get a good job,Low,Mechanical Engineer,Business Management,Need-based Aid
+24,Sports,Analysis,Drawing,50,Introvert,Get a good job,Medium,Software Engineer,Graphic Design,Need-based Aid
+25,Arts,Logical Thinking,Public Speaking,56,Ambivert,Get a good job,Low,Mechanical Engineer,Data Science Intro,Need-based Aid
+26,Science,Analysis,Statistics,59,Ambivert,Higher studies,High,Mechanical Engineer,Python Basics,STEM Scholarship
+27,Business,Communication,Python,80,Ambivert,Start a business,Medium,Doctor,Business Management,National Merit Scholarship
+28,Science,Leadership,Drawing,92,Introvert,Develop new skills,High,Teacher,Biology 101,STEM Scholarship
+29,Medicine,Analysis,Public Speaking,55,Introvert,Start a business,Low,Data Analyst,Math Foundations,Need-based Aid
+30,Design,Leadership,Biology,97,Extrovert,Develop new skills,Medium,Software Engineer,Biology 101,National Merit Scholarship
+31,Arts,Creativity,Public Speaking,63,Introvert,Higher studies,Medium,Mechanical Engineer,Biology 101,STEM Scholarship
+32,Business,Leadership,Java,76,Introvert,Higher studies,High,Teacher,Math Foundations,Need-based Aid
+33,Sports,Creativity,Java,92,Introvert,Higher studies,Medium,Data Analyst,Math Foundations,STEM Scholarship
+34,Maths,Logical Thinking,Drawing,74,Ambivert,Start a business,Medium,Entrepreneur,Business Management,Need-based Aid
+35,Business,Logical Thinking,Physics,96,Extrovert,Develop new skills,Medium,Data Analyst,Graphic Design,National Merit Scholarship
+36,Sports,Problem Solving,Statistics,58,Extrovert,Get a good job,Low,Entrepreneur,Business Management,Arts Talent Scholarship
+37,Business,Communication,Java,67,Introvert,Develop new skills,High,Designer,Graphic Design,Need-based Aid
+38,Science,Problem Solving,Python,78,Extrovert,Higher studies,Low,Designer,Math Foundations,National Merit Scholarship
+39,Design,Logical Thinking,Statistics,52,Ambivert,Start a business,High,Entrepreneur,Biology 101,Need-based Aid
+40,Medicine,Communication,Marketing,75,Ambivert,Start a business,Medium,Mechanical Engineer,Math Foundations,National Merit Scholarship
+41,Sports,Leadership,Python,100,Ambivert,Get a good job,High,Designer,Graphic Design,Need-based Aid
+42,Arts,Problem Solving,Physics,96,Ambivert,Higher studies,Medium,Designer,Graphic Design,STEM Scholarship
+43,Design,Logical Thinking,Public Speaking,67,Introvert,Get a good job,Low,Mechanical Engineer,Business Management,STEM Scholarship
+44,Maths,Problem Solving,Python,80,Introvert,Get a good job,Low,Mechanical Engineer,Python Basics,Need-based Aid
+45,Sports,Leadership,Marketing,56,Extrovert,Get a good job,Low,Software Engineer,Business Management,Arts Talent Scholarship
+46,Medicine,Creativity,Statistics,75,Extrovert,Get a good job,Medium,Designer,Python Basics,Arts Talent Scholarship
+47,Sports,Communication,Biology,99,Extrovert,Get a good job,High,Data Analyst,Business Management,Need-based Aid
+48,Maths,Logical Thinking,Statistics,63,Extrovert,Start a business,Medium,Mechanical Engineer,Graphic Design,STEM Scholarship
+49,Design,Logical Thinking,Physics,63,Extrovert,Start a business,Medium,Data Analyst,Biology 101,National Merit Scholarship
+50,Medicine,Creativity,Biology,51,Introvert,Develop new skills,Medium,Doctor,Data Science Intro,National Merit Scholarship
+51,Maths,Problem Solving,Physics,98,Ambivert,Start a business,High,Software Engineer,Graphic Design,STEM Scholarship
+52,Business,Analysis,Statistics,55,Extrovert,Higher studies,Medium,Teacher,Graphic Design,Arts Talent Scholarship
+53,Medicine,Analysis,Java,76,Introvert,Higher studies,Medium,Designer,Business Management,Need-based Aid
+54,Arts,Logical Thinking,Marketing,59,Introvert,Get a good job,Low,Software Engineer,Business Management,Arts Talent Scholarship
+55,Design,Leadership,Python,50,Extrovert,Get a good job,Medium,Data Analyst,Data Science Intro,STEM Scholarship
+56,Sports,Analysis,Physics,54,Ambivert,Develop new skills,Low,Software Engineer,Biology 101,National Merit Scholarship
+57,Arts,Leadership,Statistics,59,Extrovert,Higher studies,Low,Software Engineer,Python Basics,STEM Scholarship
+58,Design,Analysis,Public Speaking,52,Ambivert,Get a good job,High,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+59,Design,Analysis,Python,83,Introvert,Higher studies,High,Designer,Biology 101,Arts Talent Scholarship
+60,Business,Leadership,Public Speaking,97,Extrovert,Get a good job,High,Software Engineer,Graphic Design,STEM Scholarship
+61,Science,Analysis,Biology,57,Introvert,Develop new skills,High,Data Analyst,Python Basics,STEM Scholarship
+62,Science,Creativity,Java,86,Introvert,Higher studies,Medium,Designer,Business Management,Arts Talent Scholarship
+63,Arts,Analysis,Drawing,57,Ambivert,Higher studies,Low,Entrepreneur,Python Basics,STEM Scholarship
+64,Science,Analysis,Biology,60,Introvert,Get a good job,Low,Software Engineer,Business Management,STEM Scholarship
+65,Business,Communication,Drawing,99,Extrovert,Start a business,High,Teacher,Data Science Intro,Need-based Aid
+66,Arts,Analysis,Marketing,75,Ambivert,Higher studies,Medium,Teacher,Math Foundations,Need-based Aid
+67,Sports,Problem Solving,Marketing,73,Extrovert,Develop new skills,Low,Teacher,Math Foundations,Arts Talent Scholarship
+68,Science,Problem Solving,Biology,83,Introvert,Get a good job,Medium,Doctor,Math Foundations,Arts Talent Scholarship
+69,Science,Creativity,Statistics,62,Ambivert,Higher studies,High,Teacher,Biology 101,STEM Scholarship
+70,Arts,Logical Thinking,Python,58,Ambivert,Develop new skills,High,Entrepreneur,Data Science Intro,Need-based Aid
+71,Sports,Logical Thinking,Python,79,Ambivert,Start a business,Low,Doctor,Python Basics,Arts Talent Scholarship
+72,Arts,Leadership,Java,55,Introvert,Higher studies,Low,Entrepreneur,Math Foundations,Need-based Aid
+73,Arts,Communication,Marketing,52,Introvert,Develop new skills,High,Designer,Graphic Design,STEM Scholarship
+74,Maths,Creativity,Marketing,84,Extrovert,Develop new skills,Medium,Data Analyst,Python Basics,Arts Talent Scholarship
+75,Business,Logical Thinking,Python,52,Ambivert,Start a business,High,Data Analyst,Business Management,Need-based Aid
+76,Science,Analysis,Biology,67,Extrovert,Get a good job,Medium,Doctor,Graphic Design,National Merit Scholarship
+77,Technology,Leadership,Java,74,Extrovert,Develop new skills,High,Software Engineer,Business Management,STEM Scholarship
+78,Science,Analysis,Java,85,Ambivert,Higher studies,Low,Entrepreneur,Data Science Intro,Arts Talent Scholarship
+79,Sports,Problem Solving,Python,57,Ambivert,Get a good job,Medium,Data Analyst,Python Basics,National Merit Scholarship
+80,Medicine,Problem Solving,Statistics,83,Introvert,Develop new skills,Medium,Designer,Data Science Intro,Arts Talent Scholarship
+81,Technology,Creativity,Java,68,Extrovert,Start a business,Medium,Mechanical Engineer,Data Science Intro,Need-based Aid
+82,Maths,Problem Solving,Public Speaking,58,Extrovert,Develop new skills,Low,Mechanical Engineer,Data Science Intro,STEM Scholarship
+83,Business,Communication,Marketing,78,Ambivert,Start a business,Low,Teacher,Math Foundations,Arts Talent Scholarship
+84,Medicine,Analysis,Biology,89,Extrovert,Higher studies,Medium,Software Engineer,Math Foundations,Need-based Aid
+85,Science,Communication,Public Speaking,56,Ambivert,Higher studies,Low,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+86,Design,Communication,Statistics,84,Ambivert,Get a good job,High,Designer,Python Basics,National Merit Scholarship
+87,Sports,Logical Thinking,Python,72,Ambivert,Get a good job,Low,Mechanical Engineer,Python Basics,Arts Talent Scholarship
+88,Technology,Leadership,Drawing,65,Extrovert,Higher studies,Medium,Teacher,Math Foundations,National Merit Scholarship
+89,Design,Logical Thinking,Biology,81,Ambivert,Develop new skills,High,Entrepreneur,Business Management,STEM Scholarship
+90,Maths,Leadership,Marketing,50,Introvert,Higher studies,Medium,Designer,Data Science Intro,Need-based Aid
+91,Technology,Communication,Java,71,Ambivert,Higher studies,Medium,Mechanical Engineer,Business Management,STEM Scholarship
+92,Maths,Communication,Python,76,Introvert,Higher studies,High,Doctor,Python Basics,Need-based Aid
+93,Science,Analysis,Statistics,81,Ambivert,Develop new skills,Low,Designer,Python Basics,STEM Scholarship
+94,Arts,Problem Solving,Drawing,72,Ambivert,Get a good job,High,Mechanical Engineer,Graphic Design,Arts Talent Scholarship
+95,Technology,Creativity,Drawing,87,Extrovert,Higher studies,Low,Software Engineer,Biology 101,Arts Talent Scholarship
+96,Business,Creativity,Java,79,Introvert,Develop new skills,Low,Doctor,Graphic Design,Need-based Aid
+97,Design,Analysis,Java,78,Introvert,Get a good job,High,Software Engineer,Graphic Design,Arts Talent Scholarship
+98,Medicine,Communication,Java,61,Introvert,Start a business,Low,Designer,Python Basics,Need-based Aid
+99,Science,Creativity,Drawing,98,Ambivert,Develop new skills,Low,Data Analyst,Math Foundations,National Merit Scholarship
+100,Design,Creativity,Python,81,Introvert,Start a business,High,Mechanical Engineer,Math Foundations,Arts Talent Scholarship
+101,Sports,Creativity,Java,83,Extrovert,Develop new skills,Low,Teacher,Data Science Intro,Need-based Aid
+102,Science,Analysis,Python,76,Ambivert,Higher studies,Medium,Data Analyst,Data Science Intro,Arts Talent Scholarship
+103,Arts,Creativity,Biology,87,Ambivert,Get a good job,High,Mechanical Engineer,Biology 101,National Merit Scholarship
+104,Design,Logical Thinking,Python,81,Extrovert,Start a business,Low,Mechanical Engineer,Graphic Design,Need-based Aid
+105,Business,Problem Solving,Biology,51,Introvert,Start a business,Medium,Data Analyst,Biology 101,National Merit Scholarship
+106,Business,Problem Solving,Statistics,63,Introvert,Start a business,Low,Entrepreneur,Graphic Design,STEM Scholarship
+107,Design,Logical Thinking,Physics,70,Ambivert,Start a business,Medium,Entrepreneur,Business Management,Arts Talent Scholarship
+108,Technology,Communication,Python,66,Ambivert,Develop new skills,Low,Data Analyst,Math Foundations,STEM Scholarship
+109,Arts,Logical Thinking,Public Speaking,55,Ambivert,Higher studies,High,Entrepreneur,Math Foundations,Arts Talent Scholarship
+110,Science,Problem Solving,Python,51,Extrovert,Start a business,Low,Mechanical Engineer,Graphic Design,National Merit Scholarship
+111,Design,Problem Solving,Physics,83,Introvert,Get a good job,Low,Teacher,Python Basics,STEM Scholarship
+112,Sports,Leadership,Python,54,Introvert,Start a business,Low,Entrepreneur,Data Science Intro,Arts Talent Scholarship
+113,Business,Logical Thinking,Physics,93,Ambivert,Develop new skills,Medium,Data Analyst,Biology 101,STEM Scholarship
+114,Technology,Logical Thinking,Python,82,Ambivert,Higher studies,High,Doctor,Graphic Design,Need-based Aid
+115,Technology,Communication,Physics,76,Ambivert,Develop new skills,Medium,Entrepreneur,Math Foundations,National Merit Scholarship
+116,Maths,Leadership,Drawing,50,Ambivert,Start a business,Low,Software Engineer,Math Foundations,STEM Scholarship
+117,Design,Problem Solving,Physics,71,Ambivert,Get a good job,Medium,Data Analyst,Math Foundations,National Merit Scholarship
+118,Science,Leadership,Physics,80,Introvert,Higher studies,High,Doctor,Graphic Design,Arts Talent Scholarship
+119,Design,Leadership,Public Speaking,50,Ambivert,Get a good job,High,Designer,Biology 101,National Merit Scholarship
+120,Design,Creativity,Public Speaking,61,Extrovert,Start a business,Medium,Data Analyst,Business Management,Arts Talent Scholarship
+121,Design,Creativity,Java,80,Ambivert,Start a business,High,Entrepreneur,Graphic Design,STEM Scholarship
+122,Medicine,Problem Solving,Statistics,76,Extrovert,Get a good job,High,Software Engineer,Graphic Design,STEM Scholarship
+123,Science,Communication,Statistics,70,Introvert,Get a good job,Medium,Entrepreneur,Graphic Design,Need-based Aid
+124,Sports,Problem Solving,Statistics,83,Introvert,Higher studies,Medium,Designer,Python Basics,National Merit Scholarship
+125,Sports,Communication,Physics,75,Ambivert,Start a business,Medium,Entrepreneur,Business Management,Arts Talent Scholarship
+126,Business,Leadership,Statistics,64,Extrovert,Start a business,High,Doctor,Biology 101,Arts Talent Scholarship
+127,Design,Problem Solving,Physics,55,Ambivert,Develop new skills,Low,Data Analyst,Biology 101,Arts Talent Scholarship
+128,Science,Creativity,Python,74,Extrovert,Develop new skills,Low,Entrepreneur,Graphic Design,Arts Talent Scholarship
+129,Technology,Analysis,Java,92,Extrovert,Develop new skills,Low,Entrepreneur,Graphic Design,Arts Talent Scholarship
+130,Science,Communication,Python,94,Introvert,Start a business,Low,Software Engineer,Data Science Intro,Arts Talent Scholarship
+131,Business,Logical Thinking,Java,71,Introvert,Higher studies,Medium,Doctor,Data Science Intro,Need-based Aid
+132,Maths,Leadership,Marketing,91,Extrovert,Higher studies,Medium,Doctor,Math Foundations,Need-based Aid
+133,Arts,Leadership,Physics,92,Extrovert,Get a good job,High,Mechanical Engineer,Python Basics,STEM Scholarship
+134,Arts,Logical Thinking,Biology,64,Introvert,Get a good job,Medium,Teacher,Graphic Design,Need-based Aid
+135,Arts,Logical Thinking,Python,88,Ambivert,Higher studies,Medium,Mechanical Engineer,Math Foundations,Need-based Aid
+136,Sports,Logical Thinking,Drawing,55,Introvert,Start a business,High,Mechanical Engineer,Math Foundations,Arts Talent Scholarship
+137,Medicine,Communication,Marketing,88,Ambivert,Higher studies,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+138,Design,Communication,Python,74,Introvert,Higher studies,High,Software Engineer,Python Basics,Arts Talent Scholarship
+139,Arts,Creativity,Java,75,Introvert,Get a good job,High,Designer,Data Science Intro,Need-based Aid
+140,Arts,Logical Thinking,Drawing,79,Introvert,Start a business,Low,Software Engineer,Graphic Design,Arts Talent Scholarship
+141,Arts,Communication,Statistics,56,Extrovert,Get a good job,High,Data Analyst,Data Science Intro,Arts Talent Scholarship
+142,Sports,Leadership,Public Speaking,54,Extrovert,Get a good job,Medium,Data Analyst,Biology 101,National Merit Scholarship
+143,Design,Analysis,Marketing,90,Extrovert,Get a good job,High,Designer,Python Basics,National Merit Scholarship
+144,Maths,Analysis,Drawing,55,Extrovert,Start a business,High,Designer,Data Science Intro,Arts Talent Scholarship
+145,Design,Logical Thinking,Public Speaking,64,Introvert,Get a good job,Low,Entrepreneur,Graphic Design,National Merit Scholarship
+146,Arts,Logical Thinking,Public Speaking,72,Ambivert,Develop new skills,High,Mechanical Engineer,Biology 101,STEM Scholarship
+147,Maths,Problem Solving,Physics,60,Ambivert,Get a good job,Medium,Software Engineer,Python Basics,Need-based Aid
+148,Design,Problem Solving,Python,92,Introvert,Start a business,Low,Designer,Math Foundations,Need-based Aid
+149,Technology,Logical Thinking,Statistics,86,Extrovert,Start a business,Medium,Designer,Business Management,Need-based Aid
+150,Science,Creativity,Java,62,Extrovert,Start a business,Medium,Entrepreneur,Python Basics,Arts Talent Scholarship
+151,Medicine,Communication,Statistics,87,Ambivert,Higher studies,Low,Doctor,Python Basics,Need-based Aid
+152,Medicine,Logical Thinking,Java,63,Introvert,Get a good job,High,Teacher,Graphic Design,National Merit Scholarship
+153,Arts,Creativity,Statistics,52,Ambivert,Start a business,High,Software Engineer,Business Management,Need-based Aid
+154,Arts,Creativity,Public Speaking,91,Introvert,Higher studies,Medium,Doctor,Math Foundations,Arts Talent Scholarship
+155,Arts,Logical Thinking,Biology,64,Introvert,Develop new skills,High,Entrepreneur,Biology 101,Need-based Aid
+156,Science,Problem Solving,Physics,83,Introvert,Develop new skills,Medium,Designer,Graphic Design,Arts Talent Scholarship
+157,Science,Communication,Biology,57,Extrovert,Develop new skills,Medium,Teacher,Math Foundations,STEM Scholarship
+158,Technology,Analysis,Drawing,75,Ambivert,Develop new skills,High,Teacher,Python Basics,National Merit Scholarship
+159,Maths,Leadership,Marketing,76,Extrovert,Get a good job,Low,Teacher,Graphic Design,STEM Scholarship
+160,Sports,Analysis,Statistics,87,Ambivert,Develop new skills,Low,Doctor,Biology 101,Need-based Aid
+161,Science,Logical Thinking,Java,54,Extrovert,Get a good job,High,Designer,Data Science Intro,Need-based Aid
+162,Science,Communication,Drawing,92,Extrovert,Start a business,Medium,Entrepreneur,Data Science Intro,Arts Talent Scholarship
+163,Business,Logical Thinking,Public Speaking,52,Ambivert,Develop new skills,High,Doctor,Data Science Intro,STEM Scholarship
+164,Sports,Leadership,Python,67,Ambivert,Get a good job,Medium,Mechanical Engineer,Math Foundations,National Merit Scholarship
+165,Medicine,Communication,Statistics,51,Extrovert,Start a business,Low,Data Analyst,Data Science Intro,STEM Scholarship
+166,Technology,Analysis,Statistics,67,Ambivert,Develop new skills,High,Doctor,Math Foundations,National Merit Scholarship
+167,Arts,Logical Thinking,Statistics,79,Introvert,Higher studies,High,Mechanical Engineer,Graphic Design,Arts Talent Scholarship
+168,Sports,Communication,Python,78,Introvert,Higher studies,Low,Software Engineer,Data Science Intro,Need-based Aid
+169,Technology,Problem Solving,Statistics,58,Introvert,Higher studies,High,Software Engineer,Biology 101,Arts Talent Scholarship
+170,Sports,Creativity,Marketing,83,Extrovert,Start a business,Low,Designer,Data Science Intro,Need-based Aid
+171,Maths,Logical Thinking,Biology,89,Introvert,Get a good job,High,Software Engineer,Graphic Design,STEM Scholarship
+172,Arts,Communication,Biology,79,Ambivert,Develop new skills,Medium,Mechanical Engineer,Graphic Design,STEM Scholarship
+173,Arts,Creativity,Python,72,Introvert,Start a business,High,Designer,Business Management,National Merit Scholarship
+174,Business,Analysis,Python,60,Introvert,Start a business,Low,Mechanical Engineer,Data Science Intro,STEM Scholarship
+175,Business,Leadership,Physics,61,Introvert,Get a good job,Medium,Teacher,Graphic Design,Arts Talent Scholarship
+176,Maths,Communication,Java,84,Ambivert,Start a business,Low,Data Analyst,Graphic Design,Need-based Aid
+177,Technology,Logical Thinking,Drawing,71,Extrovert,Get a good job,Medium,Data Analyst,Graphic Design,STEM Scholarship
+178,Sports,Logical Thinking,Java,52,Introvert,Develop new skills,Medium,Teacher,Python Basics,National Merit Scholarship
+179,Science,Logical Thinking,Biology,67,Ambivert,Higher studies,Low,Doctor,Graphic Design,Arts Talent Scholarship
+180,Technology,Creativity,Public Speaking,78,Introvert,Higher studies,Low,Designer,Graphic Design,STEM Scholarship
+181,Medicine,Creativity,Public Speaking,79,Ambivert,Start a business,High,Entrepreneur,Biology 101,Need-based Aid
+182,Medicine,Communication,Statistics,69,Introvert,Higher studies,Low,Designer,Graphic Design,National Merit Scholarship
+183,Science,Problem Solving,Marketing,85,Ambivert,Start a business,Low,Doctor,Biology 101,Need-based Aid
+184,Medicine,Logical Thinking,Marketing,74,Introvert,Start a business,Low,Entrepreneur,Math Foundations,STEM Scholarship
+185,Arts,Communication,Physics,55,Ambivert,Start a business,Low,Doctor,Data Science Intro,Arts Talent Scholarship
+186,Arts,Leadership,Marketing,68,Ambivert,Start a business,Low,Entrepreneur,Python Basics,Arts Talent Scholarship
+187,Technology,Creativity,Biology,80,Ambivert,Higher studies,Low,Data Analyst,Math Foundations,Need-based Aid
+188,Medicine,Logical Thinking,Marketing,96,Introvert,Get a good job,Medium,Teacher,Python Basics,Need-based Aid
+189,Design,Logical Thinking,Public Speaking,55,Ambivert,Get a good job,Medium,Data Analyst,Python Basics,STEM Scholarship
+190,Business,Communication,Java,100,Introvert,Higher studies,High,Designer,Math Foundations,Arts Talent Scholarship
+191,Maths,Analysis,Python,92,Introvert,Higher studies,Medium,Teacher,Biology 101,STEM Scholarship
+192,Technology,Communication,Public Speaking,61,Ambivert,Start a business,High,Entrepreneur,Business Management,Need-based Aid
+193,Maths,Logical Thinking,Marketing,91,Ambivert,Develop new skills,Medium,Teacher,Business Management,National Merit Scholarship
+194,Maths,Creativity,Statistics,72,Ambivert,Higher studies,Low,Entrepreneur,Graphic Design,STEM Scholarship
+195,Business,Problem Solving,Physics,100,Ambivert,Develop new skills,High,Doctor,Math Foundations,Arts Talent Scholarship
+196,Arts,Logical Thinking,Python,54,Introvert,Get a good job,High,Teacher,Business Management,Arts Talent Scholarship
+197,Medicine,Analysis,Statistics,89,Ambivert,Develop new skills,High,Mechanical Engineer,Python Basics,STEM Scholarship
+198,Design,Logical Thinking,Drawing,99,Extrovert,Get a good job,Medium,Doctor,Math Foundations,Need-based Aid
+199,Sports,Creativity,Statistics,99,Extrovert,Get a good job,Low,Doctor,Python Basics,Arts Talent Scholarship
+200,Arts,Communication,Statistics,98,Introvert,Start a business,High,Entrepreneur,Data Science Intro,Arts Talent Scholarship
+201,Medicine,Communication,Marketing,52,Extrovert,Get a good job,Low,Data Analyst,Biology 101,Need-based Aid
+202,Maths,Communication,Java,82,Ambivert,Start a business,Medium,Entrepreneur,Python Basics,National Merit Scholarship
+203,Medicine,Problem Solving,Marketing,100,Ambivert,Develop new skills,Medium,Software Engineer,Business Management,Need-based Aid
+204,Sports,Communication,Marketing,80,Extrovert,Get a good job,High,Mechanical Engineer,Python Basics,STEM Scholarship
+205,Design,Analysis,Statistics,72,Extrovert,Higher studies,Medium,Doctor,Business Management,Arts Talent Scholarship
+206,Maths,Logical Thinking,Marketing,75,Extrovert,Higher studies,Low,Mechanical Engineer,Graphic Design,Need-based Aid
+207,Medicine,Logical Thinking,Java,77,Introvert,Higher studies,High,Entrepreneur,Graphic Design,Arts Talent Scholarship
+208,Arts,Problem Solving,Public Speaking,82,Ambivert,Higher studies,Low,Teacher,Business Management,STEM Scholarship
+209,Arts,Leadership,Physics,53,Introvert,Get a good job,Medium,Software Engineer,Biology 101,Need-based Aid
+210,Arts,Leadership,Statistics,100,Extrovert,Start a business,Low,Doctor,Graphic Design,STEM Scholarship
+211,Sports,Problem Solving,Python,63,Ambivert,Higher studies,High,Mechanical Engineer,Math Foundations,Need-based Aid
+212,Maths,Logical Thinking,Statistics,62,Extrovert,Start a business,Low,Teacher,Math Foundations,Arts Talent Scholarship
+213,Maths,Creativity,Drawing,50,Extrovert,Get a good job,High,Data Analyst,Math Foundations,STEM Scholarship
+214,Sports,Creativity,Java,82,Introvert,Get a good job,Low,Entrepreneur,Graphic Design,STEM Scholarship
+215,Maths,Logical Thinking,Statistics,66,Introvert,Higher studies,High,Teacher,Python Basics,Need-based Aid
+216,Business,Communication,Java,59,Introvert,Higher studies,High,Teacher,Math Foundations,National Merit Scholarship
+217,Science,Communication,Java,76,Extrovert,Higher studies,Low,Entrepreneur,Python Basics,Arts Talent Scholarship
+218,Business,Creativity,Public Speaking,88,Extrovert,Start a business,High,Teacher,Python Basics,STEM Scholarship
+219,Medicine,Communication,Public Speaking,80,Ambivert,Get a good job,Medium,Designer,Business Management,Need-based Aid
+220,Business,Creativity,Statistics,50,Introvert,Develop new skills,High,Teacher,Math Foundations,STEM Scholarship
+221,Maths,Analysis,Public Speaking,85,Ambivert,Get a good job,Low,Mechanical Engineer,Math Foundations,National Merit Scholarship
+222,Technology,Problem Solving,Public Speaking,71,Ambivert,Higher studies,High,Mechanical Engineer,Business Management,Arts Talent Scholarship
+223,Maths,Analysis,Statistics,94,Introvert,Get a good job,Medium,Teacher,Graphic Design,STEM Scholarship
+224,Business,Creativity,Public Speaking,50,Introvert,Get a good job,High,Mechanical Engineer,Biology 101,STEM Scholarship
+225,Business,Communication,Python,51,Introvert,Get a good job,Low,Designer,Graphic Design,STEM Scholarship
+226,Sports,Communication,Public Speaking,82,Extrovert,Develop new skills,Low,Data Analyst,Math Foundations,National Merit Scholarship
+227,Science,Problem Solving,Marketing,86,Ambivert,Higher studies,High,Teacher,Math Foundations,Need-based Aid
+228,Maths,Creativity,Marketing,60,Introvert,Higher studies,Low,Software Engineer,Business Management,Arts Talent Scholarship
+229,Sports,Leadership,Public Speaking,88,Extrovert,Develop new skills,Low,Designer,Graphic Design,National Merit Scholarship
+230,Maths,Logical Thinking,Public Speaking,64,Extrovert,Develop new skills,Low,Designer,Data Science Intro,Need-based Aid
+231,Business,Leadership,Public Speaking,60,Extrovert,Get a good job,Medium,Software Engineer,Math Foundations,National Merit Scholarship
+232,Arts,Analysis,Public Speaking,71,Extrovert,Develop new skills,Low,Doctor,Business Management,Need-based Aid
+233,Design,Problem Solving,Marketing,68,Introvert,Higher studies,Low,Mechanical Engineer,Biology 101,National Merit Scholarship
+234,Design,Creativity,Biology,62,Introvert,Start a business,Medium,Data Analyst,Python Basics,Need-based Aid
+235,Business,Logical Thinking,Statistics,94,Introvert,Start a business,High,Designer,Python Basics,STEM Scholarship
+236,Technology,Leadership,Drawing,59,Introvert,Get a good job,High,Teacher,Business Management,Need-based Aid
+237,Technology,Analysis,Public Speaking,96,Introvert,Higher studies,Medium,Doctor,Business Management,National Merit Scholarship
+238,Sports,Creativity,Python,71,Introvert,Start a business,Medium,Mechanical Engineer,Biology 101,STEM Scholarship
+239,Medicine,Creativity,Physics,77,Introvert,Start a business,High,Entrepreneur,Python Basics,STEM Scholarship
+240,Science,Analysis,Marketing,55,Introvert,Get a good job,High,Designer,Business Management,National Merit Scholarship
+241,Arts,Creativity,Python,50,Introvert,Start a business,Low,Doctor,Graphic Design,Arts Talent Scholarship
+242,Maths,Leadership,Biology,71,Ambivert,Start a business,Medium,Data Analyst,Python Basics,STEM Scholarship
+243,Maths,Problem Solving,Biology,82,Extrovert,Develop new skills,Low,Entrepreneur,Biology 101,Need-based Aid
+244,Science,Logical Thinking,Python,68,Ambivert,Higher studies,Medium,Mechanical Engineer,Graphic Design,Need-based Aid
+245,Arts,Analysis,Statistics,90,Ambivert,Start a business,Medium,Doctor,Math Foundations,STEM Scholarship
+246,Science,Communication,Python,59,Introvert,Start a business,Medium,Teacher,Data Science Intro,National Merit Scholarship
+247,Science,Leadership,Public Speaking,63,Extrovert,Start a business,High,Teacher,Python Basics,Arts Talent Scholarship
+248,Science,Problem Solving,Public Speaking,99,Introvert,Get a good job,Low,Mechanical Engineer,Data Science Intro,Arts Talent Scholarship
+249,Medicine,Leadership,Drawing,67,Extrovert,Get a good job,Medium,Doctor,Graphic Design,STEM Scholarship
+250,Business,Creativity,Biology,59,Ambivert,Develop new skills,Medium,Designer,Data Science Intro,Need-based Aid
+251,Maths,Problem Solving,Marketing,75,Extrovert,Start a business,Low,Doctor,Math Foundations,Need-based Aid
+252,Science,Leadership,Marketing,77,Ambivert,Develop new skills,Low,Entrepreneur,Business Management,STEM Scholarship
+253,Business,Analysis,Java,62,Extrovert,Start a business,Low,Doctor,Python Basics,National Merit Scholarship
+254,Science,Problem Solving,Public Speaking,50,Extrovert,Develop new skills,Medium,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+255,Technology,Problem Solving,Marketing,75,Introvert,Develop new skills,Medium,Teacher,Math Foundations,Arts Talent Scholarship
+256,Design,Logical Thinking,Drawing,99,Extrovert,Higher studies,Low,Data Analyst,Graphic Design,National Merit Scholarship
+257,Medicine,Leadership,Python,73,Introvert,Start a business,High,Teacher,Python Basics,STEM Scholarship
+258,Maths,Analysis,Public Speaking,86,Introvert,Develop new skills,Low,Doctor,Math Foundations,Need-based Aid
+259,Business,Leadership,Java,80,Ambivert,Higher studies,High,Doctor,Business Management,STEM Scholarship
+260,Business,Logical Thinking,Statistics,50,Introvert,Get a good job,Low,Software Engineer,Graphic Design,Arts Talent Scholarship
+261,Arts,Creativity,Drawing,75,Ambivert,Higher studies,Medium,Data Analyst,Biology 101,STEM Scholarship
+262,Medicine,Logical Thinking,Drawing,92,Ambivert,Higher studies,Low,Entrepreneur,Business Management,STEM Scholarship
+263,Arts,Analysis,Public Speaking,60,Introvert,Get a good job,Medium,Data Analyst,Math Foundations,Need-based Aid
+264,Maths,Problem Solving,Java,82,Ambivert,Higher studies,Medium,Software Engineer,Python Basics,Arts Talent Scholarship
+265,Medicine,Communication,Drawing,57,Ambivert,Start a business,High,Teacher,Data Science Intro,National Merit Scholarship
+266,Technology,Logical Thinking,Java,50,Ambivert,Start a business,Medium,Designer,Graphic Design,National Merit Scholarship
+267,Sports,Leadership,Drawing,100,Ambivert,Higher studies,Medium,Designer,Business Management,National Merit Scholarship
+268,Business,Problem Solving,Statistics,71,Extrovert,Get a good job,Medium,Teacher,Data Science Intro,STEM Scholarship
+269,Technology,Communication,Physics,99,Ambivert,Start a business,High,Designer,Data Science Intro,STEM Scholarship
+270,Sports,Problem Solving,Biology,69,Ambivert,Start a business,Medium,Doctor,Biology 101,Need-based Aid
+271,Design,Problem Solving,Java,90,Extrovert,Higher studies,Medium,Entrepreneur,Biology 101,Arts Talent Scholarship
+272,Business,Analysis,Public Speaking,68,Ambivert,Get a good job,Low,Doctor,Data Science Intro,STEM Scholarship
+273,Science,Analysis,Statistics,78,Introvert,Start a business,Medium,Teacher,Graphic Design,National Merit Scholarship
+274,Design,Analysis,Drawing,100,Extrovert,Start a business,Low,Mechanical Engineer,Business Management,National Merit Scholarship
+275,Design,Communication,Public Speaking,99,Ambivert,Get a good job,Medium,Entrepreneur,Math Foundations,Need-based Aid
+276,Business,Communication,Marketing,52,Introvert,Start a business,Low,Software Engineer,Graphic Design,Arts Talent Scholarship
+277,Business,Problem Solving,Java,99,Extrovert,Get a good job,High,Entrepreneur,Math Foundations,Need-based Aid
+278,Science,Communication,Python,81,Extrovert,Get a good job,Low,Entrepreneur,Math Foundations,Arts Talent Scholarship
+279,Medicine,Communication,Python,82,Introvert,Higher studies,High,Data Analyst,Biology 101,STEM Scholarship
+280,Arts,Creativity,Java,88,Extrovert,Develop new skills,Low,Data Analyst,Data Science Intro,Arts Talent Scholarship
+281,Technology,Leadership,Public Speaking,61,Introvert,Higher studies,High,Designer,Biology 101,National Merit Scholarship
+282,Business,Communication,Java,99,Ambivert,Higher studies,Low,Designer,Math Foundations,National Merit Scholarship
+283,Arts,Communication,Public Speaking,94,Introvert,Higher studies,High,Entrepreneur,Data Science Intro,Arts Talent Scholarship
+284,Sports,Communication,Python,85,Extrovert,Higher studies,High,Designer,Data Science Intro,STEM Scholarship
+285,Sports,Problem Solving,Statistics,93,Introvert,Develop new skills,Low,Teacher,Math Foundations,National Merit Scholarship
+286,Science,Communication,Physics,60,Extrovert,Higher studies,Low,Designer,Graphic Design,National Merit Scholarship
+287,Sports,Creativity,Python,69,Ambivert,Get a good job,Low,Designer,Python Basics,STEM Scholarship
+288,Technology,Leadership,Biology,56,Extrovert,Start a business,High,Doctor,Data Science Intro,National Merit Scholarship
+289,Maths,Problem Solving,Public Speaking,81,Ambivert,Get a good job,Low,Software Engineer,Graphic Design,National Merit Scholarship
+290,Science,Analysis,Statistics,100,Ambivert,Start a business,Medium,Mechanical Engineer,Biology 101,Need-based Aid
+291,Design,Creativity,Marketing,68,Extrovert,Get a good job,High,Data Analyst,Biology 101,STEM Scholarship
+292,Maths,Communication,Drawing,87,Introvert,Develop new skills,High,Entrepreneur,Business Management,National Merit Scholarship
+293,Sports,Problem Solving,Biology,55,Introvert,Start a business,Medium,Software Engineer,Business Management,National Merit Scholarship
+294,Medicine,Analysis,Biology,92,Introvert,Get a good job,High,Designer,Python Basics,Arts Talent Scholarship
+295,Technology,Communication,Python,96,Extrovert,Develop new skills,Low,Entrepreneur,Data Science Intro,National Merit Scholarship
+296,Medicine,Creativity,Python,85,Extrovert,Higher studies,Low,Designer,Biology 101,Arts Talent Scholarship
+297,Maths,Leadership,Drawing,70,Ambivert,Get a good job,High,Teacher,Data Science Intro,Need-based Aid
+298,Science,Creativity,Marketing,84,Extrovert,Develop new skills,Medium,Doctor,Biology 101,National Merit Scholarship
+299,Sports,Problem Solving,Python,58,Introvert,Develop new skills,High,Entrepreneur,Python Basics,Need-based Aid
+300,Science,Problem Solving,Physics,77,Ambivert,Get a good job,High,Doctor,Graphic Design,STEM Scholarship
+301,Arts,Creativity,Physics,77,Introvert,Develop new skills,Low,Mechanical Engineer,Business Management,National Merit Scholarship
+302,Maths,Leadership,Java,97,Extrovert,Higher studies,Medium,Mechanical Engineer,Biology 101,STEM Scholarship
+303,Design,Analysis,Statistics,66,Ambivert,Start a business,Low,Mechanical Engineer,Graphic Design,Need-based Aid
+304,Technology,Creativity,Public Speaking,69,Introvert,Develop new skills,Medium,Mechanical Engineer,Business Management,National Merit Scholarship
+305,Medicine,Problem Solving,Java,54,Introvert,Get a good job,High,Data Analyst,Python Basics,Arts Talent Scholarship
+306,Design,Analysis,Java,82,Extrovert,Start a business,Medium,Doctor,Graphic Design,Need-based Aid
+307,Medicine,Creativity,Statistics,62,Introvert,Start a business,Low,Entrepreneur,Graphic Design,STEM Scholarship
+308,Business,Logical Thinking,Drawing,99,Introvert,Develop new skills,High,Software Engineer,Graphic Design,Need-based Aid
+309,Medicine,Communication,Public Speaking,71,Introvert,Develop new skills,High,Mechanical Engineer,Math Foundations,Need-based Aid
+310,Sports,Problem Solving,Physics,81,Extrovert,Get a good job,Low,Teacher,Math Foundations,Arts Talent Scholarship
+311,Science,Logical Thinking,Statistics,64,Introvert,Start a business,Medium,Software Engineer,Business Management,STEM Scholarship
+312,Medicine,Creativity,Statistics,75,Ambivert,Higher studies,High,Data Analyst,Biology 101,Need-based Aid
+313,Sports,Analysis,Python,94,Introvert,Get a good job,Low,Entrepreneur,Math Foundations,Arts Talent Scholarship
+314,Business,Logical Thinking,Python,82,Extrovert,Develop new skills,Medium,Data Analyst,Business Management,STEM Scholarship
+315,Science,Communication,Marketing,72,Ambivert,Start a business,Low,Designer,Math Foundations,National Merit Scholarship
+316,Business,Analysis,Drawing,54,Introvert,Get a good job,Low,Entrepreneur,Business Management,Arts Talent Scholarship
+317,Arts,Communication,Statistics,51,Introvert,Develop new skills,High,Data Analyst,Biology 101,Arts Talent Scholarship
+318,Technology,Communication,Java,57,Introvert,Develop new skills,Low,Teacher,Python Basics,Need-based Aid
+319,Arts,Problem Solving,Drawing,94,Ambivert,Develop new skills,Low,Software Engineer,Math Foundations,Need-based Aid
+320,Science,Logical Thinking,Drawing,77,Ambivert,Get a good job,Medium,Software Engineer,Python Basics,STEM Scholarship
+321,Design,Problem Solving,Java,86,Introvert,Get a good job,Low,Designer,Python Basics,STEM Scholarship
+322,Medicine,Leadership,Biology,58,Introvert,Higher studies,High,Data Analyst,Math Foundations,STEM Scholarship
+323,Maths,Communication,Drawing,52,Ambivert,Develop new skills,Low,Data Analyst,Python Basics,Arts Talent Scholarship
+324,Science,Leadership,Statistics,96,Ambivert,Develop new skills,High,Designer,Data Science Intro,Need-based Aid
+325,Business,Leadership,Physics,96,Extrovert,Get a good job,Medium,Designer,Python Basics,Arts Talent Scholarship
+326,Design,Creativity,Marketing,85,Extrovert,Develop new skills,Low,Mechanical Engineer,Math Foundations,National Merit Scholarship
+327,Design,Leadership,Java,98,Extrovert,Develop new skills,High,Doctor,Math Foundations,Need-based Aid
+328,Science,Logical Thinking,Java,69,Ambivert,Higher studies,Medium,Designer,Graphic Design,Need-based Aid
+329,Business,Problem Solving,Biology,65,Extrovert,Higher studies,High,Mechanical Engineer,Python Basics,Need-based Aid
+330,Science,Communication,Public Speaking,54,Extrovert,Start a business,Low,Designer,Data Science Intro,Arts Talent Scholarship
+331,Business,Problem Solving,Drawing,74,Ambivert,Get a good job,Medium,Designer,Math Foundations,Need-based Aid
+332,Maths,Creativity,Physics,65,Ambivert,Higher studies,Low,Teacher,Business Management,National Merit Scholarship
+333,Medicine,Creativity,Statistics,53,Extrovert,Develop new skills,High,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+334,Business,Creativity,Marketing,81,Extrovert,Develop new skills,High,Data Analyst,Graphic Design,Need-based Aid
+335,Science,Problem Solving,Statistics,84,Extrovert,Start a business,Medium,Data Analyst,Biology 101,Need-based Aid
+336,Maths,Leadership,Statistics,52,Ambivert,Start a business,High,Doctor,Python Basics,Need-based Aid
+337,Technology,Logical Thinking,Java,100,Extrovert,Get a good job,High,Entrepreneur,Math Foundations,National Merit Scholarship
+338,Technology,Leadership,Java,65,Ambivert,Higher studies,Low,Mechanical Engineer,Math Foundations,Need-based Aid
+339,Business,Leadership,Physics,89,Ambivert,Start a business,Low,Data Analyst,Business Management,National Merit Scholarship
+340,Arts,Creativity,Biology,95,Introvert,Higher studies,Low,Software Engineer,Data Science Intro,Need-based Aid
+341,Arts,Problem Solving,Java,77,Introvert,Higher studies,High,Doctor,Data Science Intro,Need-based Aid
+342,Design,Leadership,Statistics,95,Ambivert,Develop new skills,Medium,Software Engineer,Biology 101,Arts Talent Scholarship
+343,Arts,Analysis,Physics,82,Ambivert,Get a good job,Low,Teacher,Data Science Intro,Arts Talent Scholarship
+344,Business,Analysis,Biology,90,Introvert,Start a business,Low,Designer,Business Management,Arts Talent Scholarship
+345,Technology,Leadership,Drawing,95,Introvert,Start a business,Medium,Data Analyst,Biology 101,National Merit Scholarship
+346,Arts,Logical Thinking,Marketing,68,Introvert,Start a business,High,Mechanical Engineer,Business Management,Arts Talent Scholarship
+347,Design,Communication,Public Speaking,88,Ambivert,Higher studies,Medium,Software Engineer,Graphic Design,STEM Scholarship
+348,Technology,Logical Thinking,Biology,60,Ambivert,Higher studies,Medium,Teacher,Business Management,Need-based Aid
+349,Medicine,Logical Thinking,Biology,76,Extrovert,Start a business,High,Mechanical Engineer,Business Management,Arts Talent Scholarship
+350,Medicine,Problem Solving,Drawing,70,Introvert,Develop new skills,Low,Data Analyst,Python Basics,Arts Talent Scholarship
+351,Sports,Analysis,Physics,95,Introvert,Get a good job,High,Software Engineer,Data Science Intro,Need-based Aid
+352,Science,Logical Thinking,Python,62,Extrovert,Develop new skills,High,Entrepreneur,Math Foundations,STEM Scholarship
+353,Sports,Creativity,Drawing,63,Extrovert,Develop new skills,High,Designer,Data Science Intro,STEM Scholarship
+354,Business,Communication,Statistics,92,Extrovert,Develop new skills,High,Teacher,Python Basics,Arts Talent Scholarship
+355,Medicine,Analysis,Statistics,90,Extrovert,Higher studies,High,Doctor,Biology 101,Need-based Aid
+356,Science,Communication,Statistics,65,Ambivert,Develop new skills,High,Designer,Biology 101,STEM Scholarship
+357,Sports,Communication,Physics,74,Introvert,Get a good job,Medium,Doctor,Biology 101,Need-based Aid
+358,Business,Creativity,Public Speaking,57,Ambivert,Develop new skills,Medium,Entrepreneur,Biology 101,National Merit Scholarship
+359,Technology,Logical Thinking,Java,66,Ambivert,Higher studies,Medium,Entrepreneur,Business Management,Arts Talent Scholarship
+360,Business,Analysis,Java,50,Extrovert,Start a business,Low,Doctor,Math Foundations,Need-based Aid
+361,Medicine,Leadership,Biology,70,Extrovert,Develop new skills,Low,Doctor,Business Management,National Merit Scholarship
+362,Technology,Communication,Java,66,Ambivert,Start a business,Medium,Software Engineer,Business Management,National Merit Scholarship
+363,Science,Logical Thinking,Java,77,Extrovert,Develop new skills,High,Doctor,Business Management,STEM Scholarship
+364,Science,Logical Thinking,Physics,65,Ambivert,Get a good job,Low,Mechanical Engineer,Data Science Intro,Arts Talent Scholarship
+365,Arts,Problem Solving,Physics,65,Ambivert,Higher studies,Low,Entrepreneur,Python Basics,Need-based Aid
+366,Science,Creativity,Java,100,Ambivert,Start a business,Low,Teacher,Python Basics,STEM Scholarship
+367,Technology,Communication,Physics,79,Extrovert,Start a business,Medium,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+368,Arts,Creativity,Java,56,Extrovert,Develop new skills,Medium,Entrepreneur,Graphic Design,Need-based Aid
+369,Design,Communication,Marketing,72,Extrovert,Higher studies,Low,Designer,Math Foundations,Need-based Aid
+370,Technology,Leadership,Marketing,72,Ambivert,Develop new skills,Medium,Teacher,Business Management,Need-based Aid
+371,Design,Problem Solving,Marketing,93,Introvert,Get a good job,High,Teacher,Business Management,Arts Talent Scholarship
+372,Arts,Creativity,Drawing,71,Ambivert,Develop new skills,Low,Teacher,Data Science Intro,Arts Talent Scholarship
+373,Maths,Communication,Biology,67,Ambivert,Higher studies,Medium,Doctor,Data Science Intro,Need-based Aid
+374,Arts,Communication,Physics,86,Ambivert,Higher studies,Low,Designer,Biology 101,STEM Scholarship
+375,Business,Communication,Marketing,84,Introvert,Start a business,Low,Software Engineer,Data Science Intro,Need-based Aid
+376,Arts,Logical Thinking,Public Speaking,78,Extrovert,Develop new skills,Medium,Entrepreneur,Biology 101,Arts Talent Scholarship
+377,Technology,Analysis,Biology,64,Introvert,Start a business,Low,Software Engineer,Python Basics,Need-based Aid
+378,Technology,Analysis,Python,61,Extrovert,Higher studies,Low,Teacher,Graphic Design,National Merit Scholarship
+379,Design,Logical Thinking,Python,54,Ambivert,Develop new skills,Low,Doctor,Python Basics,National Merit Scholarship
+380,Arts,Creativity,Physics,75,Ambivert,Start a business,Low,Designer,Math Foundations,Need-based Aid
+381,Maths,Leadership,Biology,98,Extrovert,Develop new skills,High,Software Engineer,Business Management,Arts Talent Scholarship
+382,Business,Creativity,Python,62,Extrovert,Get a good job,Medium,Data Analyst,Python Basics,Need-based Aid
+383,Technology,Analysis,Public Speaking,76,Ambivert,Higher studies,Low,Teacher,Biology 101,Arts Talent Scholarship
+384,Medicine,Creativity,Python,55,Extrovert,Develop new skills,Low,Doctor,Data Science Intro,National Merit Scholarship
+385,Sports,Communication,Statistics,70,Introvert,Develop new skills,Low,Entrepreneur,Business Management,STEM Scholarship
+386,Design,Leadership,Biology,87,Ambivert,Start a business,High,Teacher,Graphic Design,Need-based Aid
+387,Sports,Problem Solving,Java,60,Ambivert,Higher studies,High,Designer,Math Foundations,National Merit Scholarship
+388,Design,Communication,Python,78,Ambivert,Develop new skills,Low,Mechanical Engineer,Python Basics,Need-based Aid
+389,Technology,Logical Thinking,Drawing,84,Ambivert,Higher studies,High,Mechanical Engineer,Graphic Design,STEM Scholarship
+390,Design,Creativity,Drawing,71,Introvert,Start a business,Medium,Software Engineer,Math Foundations,Need-based Aid
+391,Sports,Communication,Python,67,Extrovert,Start a business,High,Designer,Python Basics,Need-based Aid
+392,Business,Leadership,Biology,82,Extrovert,Develop new skills,High,Mechanical Engineer,Biology 101,National Merit Scholarship
+393,Medicine,Communication,Physics,97,Introvert,Get a good job,High,Designer,Python Basics,STEM Scholarship
+394,Sports,Logical Thinking,Statistics,91,Ambivert,Start a business,Medium,Designer,Python Basics,Need-based Aid
+395,Technology,Leadership,Statistics,77,Introvert,Get a good job,Medium,Software Engineer,Business Management,Arts Talent Scholarship
+396,Technology,Communication,Python,73,Ambivert,Start a business,Medium,Software Engineer,Graphic Design,Arts Talent Scholarship
+397,Maths,Logical Thinking,Java,54,Ambivert,Get a good job,High,Doctor,Business Management,Arts Talent Scholarship
+398,Medicine,Communication,Physics,68,Ambivert,Start a business,Medium,Entrepreneur,Biology 101,National Merit Scholarship
+399,Science,Creativity,Physics,96,Extrovert,Get a good job,Medium,Doctor,Data Science Intro,STEM Scholarship
+400,Business,Creativity,Biology,66,Ambivert,Start a business,High,Doctor,Business Management,STEM Scholarship
+401,Arts,Problem Solving,Drawing,94,Ambivert,Develop new skills,High,Data Analyst,Business Management,National Merit Scholarship
+402,Design,Communication,Statistics,69,Ambivert,Start a business,High,Data Analyst,Data Science Intro,National Merit Scholarship
+403,Sports,Leadership,Statistics,50,Ambivert,Get a good job,Medium,Data Analyst,Biology 101,Need-based Aid
+404,Science,Communication,Statistics,65,Ambivert,Develop new skills,Medium,Mechanical Engineer,Math Foundations,Need-based Aid
+405,Design,Logical Thinking,Biology,100,Ambivert,Get a good job,Medium,Mechanical Engineer,Biology 101,National Merit Scholarship
+406,Sports,Logical Thinking,Marketing,69,Extrovert,Develop new skills,Medium,Doctor,Business Management,National Merit Scholarship
+407,Arts,Creativity,Drawing,82,Introvert,Start a business,High,Teacher,Business Management,Need-based Aid
+408,Maths,Problem Solving,Physics,73,Ambivert,Start a business,Medium,Doctor,Data Science Intro,Need-based Aid
+409,Technology,Creativity,Public Speaking,64,Introvert,Higher studies,Low,Designer,Python Basics,Need-based Aid
+410,Arts,Creativity,Marketing,74,Ambivert,Higher studies,High,Doctor,Graphic Design,National Merit Scholarship
+411,Arts,Communication,Physics,74,Ambivert,Higher studies,Low,Designer,Python Basics,STEM Scholarship
+412,Business,Logical Thinking,Marketing,79,Introvert,Higher studies,High,Doctor,Biology 101,Arts Talent Scholarship
+413,Technology,Communication,Drawing,80,Introvert,Get a good job,Low,Software Engineer,Biology 101,Need-based Aid
+414,Arts,Analysis,Marketing,98,Introvert,Develop new skills,Medium,Teacher,Graphic Design,Need-based Aid
+415,Science,Logical Thinking,Physics,97,Extrovert,Start a business,Medium,Software Engineer,Biology 101,STEM Scholarship
+416,Maths,Leadership,Public Speaking,54,Introvert,Get a good job,High,Doctor,Data Science Intro,Arts Talent Scholarship
+417,Business,Analysis,Python,71,Ambivert,Develop new skills,Medium,Doctor,Business Management,National Merit Scholarship
+418,Arts,Analysis,Marketing,50,Extrovert,Start a business,High,Entrepreneur,Graphic Design,STEM Scholarship
+419,Business,Creativity,Drawing,77,Ambivert,Higher studies,Medium,Teacher,Graphic Design,Need-based Aid
+420,Sports,Problem Solving,Public Speaking,94,Ambivert,Start a business,Low,Data Analyst,Python Basics,National Merit Scholarship
+421,Sports,Problem Solving,Physics,61,Introvert,Get a good job,Medium,Teacher,Biology 101,Need-based Aid
+422,Sports,Logical Thinking,Statistics,97,Extrovert,Start a business,Medium,Mechanical Engineer,Math Foundations,National Merit Scholarship
+423,Sports,Problem Solving,Java,72,Extrovert,Get a good job,High,Designer,Graphic Design,Need-based Aid
+424,Science,Analysis,Drawing,78,Ambivert,Develop new skills,High,Doctor,Business Management,National Merit Scholarship
+425,Business,Communication,Python,58,Ambivert,Develop new skills,Low,Data Analyst,Biology 101,Need-based Aid
+426,Medicine,Analysis,Python,50,Extrovert,Get a good job,High,Doctor,Graphic Design,Need-based Aid
+427,Science,Leadership,Python,93,Introvert,Higher studies,High,Designer,Business Management,Need-based Aid
+428,Medicine,Problem Solving,Marketing,81,Ambivert,Higher studies,High,Teacher,Data Science Intro,National Merit Scholarship
+429,Maths,Problem Solving,Statistics,68,Introvert,Start a business,Low,Doctor,Math Foundations,Arts Talent Scholarship
+430,Design,Communication,Physics,85,Extrovert,Higher studies,High,Mechanical Engineer,Graphic Design,National Merit Scholarship
+431,Design,Analysis,Drawing,71,Introvert,Start a business,Medium,Designer,Data Science Intro,STEM Scholarship
+432,Design,Analysis,Python,99,Introvert,Get a good job,Medium,Mechanical Engineer,Graphic Design,STEM Scholarship
+433,Business,Leadership,Physics,57,Introvert,Higher studies,Low,Doctor,Graphic Design,National Merit Scholarship
+434,Science,Communication,Physics,68,Introvert,Higher studies,Low,Doctor,Business Management,Need-based Aid
+435,Arts,Leadership,Java,62,Ambivert,Start a business,High,Teacher,Data Science Intro,STEM Scholarship
+436,Arts,Analysis,Python,77,Introvert,Start a business,Medium,Software Engineer,Data Science Intro,National Merit Scholarship
+437,Maths,Leadership,Marketing,93,Introvert,Higher studies,Low,Teacher,Biology 101,National Merit Scholarship
+438,Sports,Logical Thinking,Biology,54,Extrovert,Start a business,High,Software Engineer,Python Basics,National Merit Scholarship
+439,Maths,Leadership,Statistics,53,Extrovert,Start a business,Low,Mechanical Engineer,Math Foundations,Need-based Aid
+440,Design,Logical Thinking,Physics,65,Introvert,Start a business,Medium,Mechanical Engineer,Business Management,Need-based Aid
+441,Design,Leadership,Drawing,60,Introvert,Higher studies,Medium,Entrepreneur,Python Basics,National Merit Scholarship
+442,Science,Analysis,Java,51,Ambivert,Get a good job,Medium,Teacher,Data Science Intro,Need-based Aid
+443,Medicine,Analysis,Java,76,Ambivert,Get a good job,High,Mechanical Engineer,Business Management,Need-based Aid
+444,Design,Analysis,Drawing,75,Extrovert,Develop new skills,High,Data Analyst,Biology 101,Arts Talent Scholarship
+445,Arts,Creativity,Physics,58,Introvert,Develop new skills,High,Doctor,Biology 101,National Merit Scholarship
+446,Design,Analysis,Marketing,98,Extrovert,Start a business,High,Entrepreneur,Business Management,STEM Scholarship
+447,Design,Logical Thinking,Drawing,89,Introvert,Higher studies,Medium,Doctor,Graphic Design,STEM Scholarship
+448,Sports,Communication,Marketing,79,Introvert,Start a business,Low,Mechanical Engineer,Business Management,National Merit Scholarship
+449,Technology,Logical Thinking,Statistics,91,Ambivert,Develop new skills,Low,Entrepreneur,Data Science Intro,STEM Scholarship
+450,Sports,Logical Thinking,Physics,62,Ambivert,Higher studies,Low,Designer,Data Science Intro,National Merit Scholarship
+451,Maths,Analysis,Statistics,60,Introvert,Higher studies,High,Entrepreneur,Graphic Design,Need-based Aid
+452,Arts,Creativity,Physics,80,Ambivert,Higher studies,High,Software Engineer,Math Foundations,National Merit Scholarship
+453,Science,Analysis,Java,97,Introvert,Develop new skills,Low,Entrepreneur,Business Management,Arts Talent Scholarship
+454,Sports,Leadership,Java,51,Introvert,Higher studies,Medium,Doctor,Graphic Design,National Merit Scholarship
+455,Arts,Logical Thinking,Physics,55,Ambivert,Develop new skills,Medium,Mechanical Engineer,Math Foundations,Need-based Aid
+456,Design,Problem Solving,Public Speaking,83,Ambivert,Develop new skills,Medium,Entrepreneur,Biology 101,National Merit Scholarship
+457,Business,Creativity,Statistics,60,Extrovert,Get a good job,High,Mechanical Engineer,Graphic Design,Need-based Aid
+458,Maths,Logical Thinking,Physics,66,Extrovert,Get a good job,Medium,Data Analyst,Math Foundations,Need-based Aid
+459,Science,Communication,Java,73,Extrovert,Develop new skills,High,Teacher,Business Management,STEM Scholarship
+460,Design,Creativity,Python,56,Introvert,Start a business,Low,Designer,Data Science Intro,Need-based Aid
+461,Technology,Communication,Drawing,65,Ambivert,Get a good job,Low,Mechanical Engineer,Graphic Design,Arts Talent Scholarship
+462,Science,Communication,Marketing,77,Extrovert,Get a good job,Medium,Mechanical Engineer,Graphic Design,Need-based Aid
+463,Medicine,Creativity,Python,72,Extrovert,Start a business,Low,Data Analyst,Math Foundations,STEM Scholarship
+464,Medicine,Analysis,Public Speaking,78,Ambivert,Higher studies,High,Software Engineer,Business Management,National Merit Scholarship
+465,Design,Leadership,Statistics,95,Extrovert,Higher studies,Low,Entrepreneur,Python Basics,National Merit Scholarship
+466,Science,Analysis,Statistics,99,Ambivert,Develop new skills,Low,Designer,Math Foundations,STEM Scholarship
+467,Medicine,Problem Solving,Python,54,Ambivert,Higher studies,Low,Designer,Data Science Intro,Arts Talent Scholarship
+468,Design,Communication,Drawing,60,Extrovert,Develop new skills,Low,Teacher,Data Science Intro,STEM Scholarship
+469,Design,Creativity,Python,71,Ambivert,Higher studies,Low,Mechanical Engineer,Graphic Design,National Merit Scholarship
+470,Medicine,Communication,Java,92,Extrovert,Get a good job,Low,Software Engineer,Business Management,Need-based Aid
+471,Arts,Communication,Python,97,Extrovert,Get a good job,High,Designer,Graphic Design,Need-based Aid
+472,Technology,Problem Solving,Java,80,Ambivert,Higher studies,High,Designer,Math Foundations,National Merit Scholarship
+473,Medicine,Problem Solving,Public Speaking,80,Extrovert,Higher studies,High,Mechanical Engineer,Data Science Intro,STEM Scholarship
+474,Sports,Leadership,Biology,88,Extrovert,Get a good job,High,Teacher,Data Science Intro,Arts Talent Scholarship
+475,Sports,Communication,Marketing,63,Ambivert,Start a business,Low,Data Analyst,Business Management,Need-based Aid
+476,Technology,Problem Solving,Drawing,100,Introvert,Get a good job,Low,Teacher,Python Basics,Need-based Aid
+477,Arts,Leadership,Biology,70,Ambivert,Get a good job,Medium,Designer,Biology 101,Need-based Aid
+478,Medicine,Creativity,Java,96,Ambivert,Develop new skills,Low,Designer,Math Foundations,STEM Scholarship
+479,Medicine,Communication,Marketing,56,Extrovert,Start a business,Medium,Software Engineer,Data Science Intro,STEM Scholarship
+480,Maths,Creativity,Python,94,Extrovert,Get a good job,Medium,Entrepreneur,Business Management,Need-based Aid
+481,Sports,Logical Thinking,Statistics,90,Extrovert,Get a good job,Medium,Software Engineer,Graphic Design,National Merit Scholarship
+482,Technology,Analysis,Physics,94,Extrovert,Get a good job,Medium,Data Analyst,Data Science Intro,Arts Talent Scholarship
+483,Design,Creativity,Biology,55,Extrovert,Get a good job,Medium,Entrepreneur,Math Foundations,Arts Talent Scholarship
+484,Sports,Problem Solving,Drawing,69,Introvert,Get a good job,Medium,Teacher,Business Management,National Merit Scholarship
+485,Medicine,Logical Thinking,Physics,60,Introvert,Higher studies,Low,Data Analyst,Graphic Design,National Merit Scholarship
+486,Science,Leadership,Java,79,Ambivert,Higher studies,High,Designer,Business Management,STEM Scholarship
+487,Sports,Communication,Statistics,65,Introvert,Higher studies,Medium,Doctor,Data Science Intro,National Merit Scholarship
+488,Technology,Communication,Public Speaking,87,Extrovert,Develop new skills,Low,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+489,Sports,Problem Solving,Public Speaking,82,Extrovert,Get a good job,High,Entrepreneur,Math Foundations,Arts Talent Scholarship
+490,Arts,Creativity,Python,100,Introvert,Develop new skills,Medium,Doctor,Data Science Intro,National Merit Scholarship
+491,Design,Analysis,Java,54,Extrovert,Start a business,Medium,Designer,Math Foundations,Need-based Aid
+492,Design,Communication,Python,52,Ambivert,Higher studies,Medium,Teacher,Python Basics,National Merit Scholarship
+493,Medicine,Leadership,Marketing,95,Extrovert,Get a good job,Medium,Entrepreneur,Biology 101,Need-based Aid
+494,Medicine,Analysis,Physics,63,Ambivert,Develop new skills,Low,Teacher,Graphic Design,Arts Talent Scholarship
+495,Maths,Analysis,Statistics,82,Extrovert,Develop new skills,Medium,Software Engineer,Math Foundations,Arts Talent Scholarship
+496,Maths,Problem Solving,Marketing,96,Ambivert,Higher studies,High,Software Engineer,Python Basics,National Merit Scholarship
+497,Design,Problem Solving,Java,54,Introvert,Start a business,High,Teacher,Data Science Intro,STEM Scholarship
+498,Business,Leadership,Biology,82,Ambivert,Get a good job,High,Data Analyst,Data Science Intro,Need-based Aid
+499,Medicine,Communication,Public Speaking,100,Ambivert,Start a business,Medium,Data Analyst,Python Basics,Arts Talent Scholarship
+500,Maths,Problem Solving,Statistics,72,Ambivert,Higher studies,High,Software Engineer,Data Science Intro,Need-based Aid
+501,Technology,Creativity,Python,70,Introvert,Develop new skills,Medium,Data Analyst,Biology 101,Need-based Aid
+502,Science,Logical Thinking,Java,95,Ambivert,Get a good job,Medium,Software Engineer,Python Basics,Need-based Aid
+503,Maths,Analysis,Physics,88,Extrovert,Get a good job,Low,Data Analyst,Python Basics,Arts Talent Scholarship
+504,Science,Problem Solving,Physics,77,Extrovert,Get a good job,Medium,Teacher,Graphic Design,National Merit Scholarship
+505,Sports,Logical Thinking,Drawing,72,Introvert,Start a business,Medium,Entrepreneur,Math Foundations,Need-based Aid
+506,Technology,Logical Thinking,Public Speaking,94,Ambivert,Develop new skills,Medium,Software Engineer,Graphic Design,National Merit Scholarship
+507,Medicine,Logical Thinking,Marketing,58,Extrovert,Get a good job,Medium,Entrepreneur,Math Foundations,STEM Scholarship
+508,Science,Creativity,Statistics,51,Introvert,Higher studies,High,Designer,Graphic Design,STEM Scholarship
+509,Arts,Logical Thinking,Python,66,Ambivert,Get a good job,Medium,Mechanical Engineer,Graphic Design,National Merit Scholarship
+510,Design,Logical Thinking,Python,50,Extrovert,Higher studies,Low,Entrepreneur,Biology 101,STEM Scholarship
+511,Maths,Problem Solving,Marketing,81,Ambivert,Higher studies,Low,Entrepreneur,Python Basics,National Merit Scholarship
+512,Maths,Creativity,Physics,59,Introvert,Start a business,Low,Teacher,Python Basics,STEM Scholarship
+513,Maths,Problem Solving,Statistics,100,Ambivert,Higher studies,Low,Entrepreneur,Graphic Design,Need-based Aid
+514,Sports,Leadership,Java,74,Ambivert,Get a good job,High,Doctor,Data Science Intro,Need-based Aid
+515,Arts,Leadership,Python,98,Extrovert,Develop new skills,Low,Data Analyst,Data Science Intro,Need-based Aid
+516,Sports,Logical Thinking,Statistics,85,Extrovert,Higher studies,Medium,Teacher,Data Science Intro,STEM Scholarship
+517,Technology,Communication,Java,77,Extrovert,Get a good job,Medium,Teacher,Math Foundations,STEM Scholarship
+518,Science,Creativity,Biology,93,Ambivert,Higher studies,High,Doctor,Business Management,STEM Scholarship
+519,Business,Analysis,Public Speaking,53,Introvert,Higher studies,Medium,Entrepreneur,Biology 101,Arts Talent Scholarship
+520,Arts,Communication,Java,66,Extrovert,Get a good job,High,Teacher,Biology 101,STEM Scholarship
+521,Design,Logical Thinking,Drawing,91,Ambivert,Get a good job,Low,Software Engineer,Data Science Intro,STEM Scholarship
+522,Medicine,Problem Solving,Public Speaking,65,Ambivert,Get a good job,Low,Mechanical Engineer,Math Foundations,National Merit Scholarship
+523,Science,Analysis,Java,98,Ambivert,Get a good job,High,Teacher,Business Management,Need-based Aid
+524,Arts,Problem Solving,Physics,56,Introvert,Develop new skills,High,Teacher,Math Foundations,Arts Talent Scholarship
+525,Arts,Creativity,Public Speaking,96,Introvert,Higher studies,Medium,Designer,Math Foundations,STEM Scholarship
+526,Technology,Communication,Biology,58,Extrovert,Higher studies,High,Data Analyst,Biology 101,Arts Talent Scholarship
+527,Maths,Logical Thinking,Python,65,Introvert,Get a good job,High,Entrepreneur,Biology 101,Need-based Aid
+528,Science,Leadership,Java,63,Introvert,Get a good job,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+529,Arts,Communication,Drawing,80,Introvert,Start a business,Low,Designer,Graphic Design,Need-based Aid
+530,Medicine,Logical Thinking,Biology,66,Extrovert,Start a business,High,Mechanical Engineer,Math Foundations,Need-based Aid
+531,Sports,Analysis,Public Speaking,53,Extrovert,Start a business,Medium,Teacher,Business Management,Need-based Aid
+532,Maths,Leadership,Java,55,Extrovert,Develop new skills,Medium,Doctor,Data Science Intro,Need-based Aid
+533,Medicine,Creativity,Drawing,87,Introvert,Start a business,Low,Teacher,Data Science Intro,National Merit Scholarship
+534,Sports,Problem Solving,Marketing,53,Introvert,Get a good job,Medium,Designer,Math Foundations,Arts Talent Scholarship
+535,Business,Analysis,Physics,67,Introvert,Get a good job,High,Teacher,Data Science Intro,National Merit Scholarship
+536,Design,Leadership,Statistics,91,Extrovert,Higher studies,High,Doctor,Data Science Intro,Arts Talent Scholarship
+537,Science,Problem Solving,Marketing,72,Extrovert,Start a business,Medium,Designer,Math Foundations,Arts Talent Scholarship
+538,Maths,Creativity,Physics,99,Ambivert,Develop new skills,Medium,Entrepreneur,Python Basics,National Merit Scholarship
+539,Medicine,Logical Thinking,Physics,64,Ambivert,Develop new skills,High,Mechanical Engineer,Data Science Intro,STEM Scholarship
+540,Medicine,Leadership,Biology,66,Extrovert,Higher studies,Medium,Entrepreneur,Math Foundations,Need-based Aid
+541,Technology,Communication,Drawing,77,Introvert,Start a business,High,Doctor,Data Science Intro,National Merit Scholarship
+542,Medicine,Analysis,Biology,84,Introvert,Higher studies,High,Data Analyst,Data Science Intro,National Merit Scholarship
+543,Medicine,Communication,Biology,74,Extrovert,Get a good job,Medium,Entrepreneur,Graphic Design,Arts Talent Scholarship
+544,Maths,Problem Solving,Physics,50,Introvert,Higher studies,Medium,Mechanical Engineer,Data Science Intro,STEM Scholarship
+545,Business,Communication,Drawing,79,Extrovert,Develop new skills,Low,Designer,Data Science Intro,STEM Scholarship
+546,Maths,Leadership,Python,96,Ambivert,Get a good job,Low,Entrepreneur,Math Foundations,Need-based Aid
+547,Medicine,Logical Thinking,Drawing,66,Introvert,Develop new skills,High,Mechanical Engineer,Business Management,Arts Talent Scholarship
+548,Medicine,Problem Solving,Statistics,50,Ambivert,Start a business,Medium,Teacher,Graphic Design,National Merit Scholarship
+549,Maths,Problem Solving,Python,57,Ambivert,Develop new skills,High,Software Engineer,Python Basics,STEM Scholarship
+550,Business,Communication,Drawing,78,Introvert,Get a good job,High,Entrepreneur,Business Management,Need-based Aid
+551,Maths,Problem Solving,Drawing,59,Introvert,Start a business,High,Software Engineer,Data Science Intro,National Merit Scholarship
+552,Medicine,Communication,Public Speaking,63,Extrovert,Higher studies,Medium,Mechanical Engineer,Data Science Intro,STEM Scholarship
+553,Maths,Communication,Physics,79,Introvert,Get a good job,High,Doctor,Data Science Intro,National Merit Scholarship
+554,Maths,Leadership,Python,81,Extrovert,Get a good job,Medium,Mechanical Engineer,Math Foundations,National Merit Scholarship
+555,Business,Analysis,Public Speaking,58,Extrovert,Start a business,Low,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+556,Science,Creativity,Java,99,Extrovert,Get a good job,Medium,Mechanical Engineer,Python Basics,Need-based Aid
+557,Medicine,Logical Thinking,Python,86,Ambivert,Higher studies,High,Designer,Math Foundations,Need-based Aid
+558,Science,Analysis,Public Speaking,60,Extrovert,Get a good job,Medium,Teacher,Business Management,STEM Scholarship
+559,Business,Analysis,Physics,52,Extrovert,Higher studies,High,Mechanical Engineer,Data Science Intro,STEM Scholarship
+560,Business,Creativity,Statistics,80,Ambivert,Get a good job,Low,Designer,Math Foundations,Arts Talent Scholarship
+561,Maths,Creativity,Biology,95,Ambivert,Develop new skills,Low,Software Engineer,Math Foundations,National Merit Scholarship
+562,Business,Leadership,Public Speaking,60,Ambivert,Higher studies,Medium,Data Analyst,Data Science Intro,National Merit Scholarship
+563,Medicine,Problem Solving,Drawing,94,Ambivert,Higher studies,Low,Software Engineer,Python Basics,National Merit Scholarship
+564,Science,Leadership,Physics,90,Extrovert,Get a good job,Medium,Software Engineer,Biology 101,Need-based Aid
+565,Technology,Creativity,Statistics,70,Introvert,Start a business,High,Teacher,Biology 101,Arts Talent Scholarship
+566,Maths,Communication,Python,66,Ambivert,Higher studies,Low,Mechanical Engineer,Math Foundations,National Merit Scholarship
+567,Technology,Problem Solving,Statistics,51,Extrovert,Start a business,Medium,Mechanical Engineer,Graphic Design,National Merit Scholarship
+568,Business,Analysis,Public Speaking,54,Introvert,Start a business,Medium,Designer,Data Science Intro,National Merit Scholarship
+569,Maths,Communication,Java,99,Ambivert,Develop new skills,High,Designer,Graphic Design,Need-based Aid
+570,Arts,Communication,Java,77,Ambivert,Develop new skills,Low,Teacher,Data Science Intro,Arts Talent Scholarship
+571,Science,Communication,Statistics,67,Extrovert,Start a business,High,Mechanical Engineer,Graphic Design,National Merit Scholarship
+572,Arts,Analysis,Biology,60,Extrovert,Start a business,Low,Doctor,Business Management,Arts Talent Scholarship
+573,Technology,Leadership,Marketing,94,Extrovert,Higher studies,High,Teacher,Biology 101,National Merit Scholarship
+574,Business,Problem Solving,Java,95,Introvert,Get a good job,Low,Entrepreneur,Biology 101,Need-based Aid
+575,Arts,Leadership,Public Speaking,84,Ambivert,Higher studies,Low,Software Engineer,Business Management,National Merit Scholarship
+576,Science,Leadership,Java,70,Introvert,Higher studies,Medium,Mechanical Engineer,Business Management,Need-based Aid
+577,Technology,Logical Thinking,Biology,51,Introvert,Higher studies,Medium,Designer,Python Basics,STEM Scholarship
+578,Design,Leadership,Physics,81,Extrovert,Start a business,Medium,Software Engineer,Math Foundations,STEM Scholarship
+579,Maths,Analysis,Physics,94,Introvert,Higher studies,High,Entrepreneur,Business Management,National Merit Scholarship
+580,Maths,Communication,Java,95,Introvert,Higher studies,Low,Software Engineer,Python Basics,STEM Scholarship
+581,Sports,Analysis,Physics,52,Introvert,Get a good job,Medium,Entrepreneur,Python Basics,National Merit Scholarship
+582,Medicine,Leadership,Biology,74,Extrovert,Higher studies,Medium,Software Engineer,Biology 101,STEM Scholarship
+583,Maths,Creativity,Java,87,Introvert,Develop new skills,Medium,Teacher,Business Management,National Merit Scholarship
+584,Science,Creativity,Public Speaking,73,Extrovert,Get a good job,Medium,Software Engineer,Python Basics,National Merit Scholarship
+585,Design,Problem Solving,Drawing,90,Ambivert,Start a business,Low,Software Engineer,Math Foundations,National Merit Scholarship
+586,Arts,Creativity,Drawing,72,Extrovert,Get a good job,Medium,Designer,Graphic Design,National Merit Scholarship
+587,Business,Communication,Drawing,99,Ambivert,Start a business,Low,Mechanical Engineer,Data Science Intro,Need-based Aid
+588,Science,Logical Thinking,Drawing,56,Ambivert,Higher studies,Low,Doctor,Graphic Design,Need-based Aid
+589,Medicine,Leadership,Statistics,83,Ambivert,Get a good job,High,Teacher,Biology 101,Need-based Aid
+590,Medicine,Communication,Drawing,100,Extrovert,Start a business,Low,Entrepreneur,Business Management,Need-based Aid
+591,Science,Communication,Drawing,74,Extrovert,Start a business,Low,Designer,Data Science Intro,Arts Talent Scholarship
+592,Technology,Communication,Python,62,Ambivert,Get a good job,Medium,Data Analyst,Python Basics,Arts Talent Scholarship
+593,Medicine,Analysis,Public Speaking,53,Ambivert,Get a good job,High,Doctor,Math Foundations,Arts Talent Scholarship
+594,Science,Communication,Physics,54,Ambivert,Higher studies,Medium,Entrepreneur,Business Management,National Merit Scholarship
+595,Technology,Logical Thinking,Statistics,66,Introvert,Get a good job,High,Teacher,Math Foundations,Arts Talent Scholarship
+596,Science,Logical Thinking,Marketing,81,Introvert,Get a good job,Low,Teacher,Biology 101,Arts Talent Scholarship
+597,Business,Analysis,Drawing,80,Ambivert,Higher studies,Low,Mechanical Engineer,Math Foundations,Need-based Aid
+598,Medicine,Communication,Java,79,Ambivert,Get a good job,Low,Doctor,Data Science Intro,National Merit Scholarship
+599,Design,Communication,Python,89,Extrovert,Higher studies,High,Entrepreneur,Data Science Intro,Arts Talent Scholarship
+600,Medicine,Communication,Marketing,97,Ambivert,Get a good job,Low,Software Engineer,Math Foundations,Need-based Aid
+601,Medicine,Analysis,Java,72,Extrovert,Get a good job,Medium,Designer,Graphic Design,STEM Scholarship
+602,Maths,Logical Thinking,Public Speaking,55,Extrovert,Develop new skills,Low,Entrepreneur,Biology 101,National Merit Scholarship
+603,Business,Problem Solving,Physics,86,Introvert,Higher studies,Medium,Designer,Graphic Design,Arts Talent Scholarship
+604,Sports,Leadership,Python,98,Introvert,Get a good job,Medium,Doctor,Business Management,Need-based Aid
+605,Sports,Analysis,Biology,96,Extrovert,Start a business,Low,Data Analyst,Python Basics,Need-based Aid
+606,Science,Problem Solving,Public Speaking,84,Ambivert,Start a business,High,Data Analyst,Data Science Intro,National Merit Scholarship
+607,Arts,Creativity,Java,56,Extrovert,Higher studies,High,Software Engineer,Data Science Intro,Need-based Aid
+608,Design,Leadership,Python,73,Ambivert,Higher studies,High,Designer,Graphic Design,STEM Scholarship
+609,Maths,Communication,Java,89,Ambivert,Start a business,Low,Data Analyst,Graphic Design,National Merit Scholarship
+610,Technology,Logical Thinking,Physics,60,Introvert,Higher studies,High,Teacher,Graphic Design,STEM Scholarship
+611,Business,Logical Thinking,Marketing,56,Introvert,Start a business,Low,Data Analyst,Biology 101,STEM Scholarship
+612,Sports,Leadership,Java,70,Extrovert,Develop new skills,Low,Doctor,Python Basics,National Merit Scholarship
+613,Business,Analysis,Physics,83,Introvert,Higher studies,Medium,Entrepreneur,Graphic Design,National Merit Scholarship
+614,Business,Leadership,Biology,57,Introvert,Higher studies,Medium,Mechanical Engineer,Python Basics,National Merit Scholarship
+615,Technology,Logical Thinking,Physics,68,Extrovert,Start a business,Low,Doctor,Math Foundations,STEM Scholarship
+616,Sports,Logical Thinking,Physics,65,Extrovert,Develop new skills,High,Entrepreneur,Graphic Design,National Merit Scholarship
+617,Arts,Leadership,Physics,54,Extrovert,Higher studies,Medium,Designer,Data Science Intro,Arts Talent Scholarship
+618,Arts,Logical Thinking,Physics,70,Extrovert,Get a good job,Medium,Doctor,Python Basics,STEM Scholarship
+619,Maths,Analysis,Drawing,62,Introvert,Develop new skills,Medium,Teacher,Business Management,National Merit Scholarship
+620,Business,Communication,Physics,87,Introvert,Start a business,Low,Data Analyst,Graphic Design,STEM Scholarship
+621,Design,Creativity,Statistics,67,Introvert,Get a good job,Medium,Data Analyst,Business Management,National Merit Scholarship
+622,Sports,Analysis,Python,98,Introvert,Get a good job,High,Data Analyst,Python Basics,National Merit Scholarship
+623,Technology,Communication,Biology,75,Extrovert,Get a good job,High,Doctor,Python Basics,National Merit Scholarship
+624,Sports,Creativity,Public Speaking,76,Introvert,Get a good job,High,Data Analyst,Python Basics,National Merit Scholarship
+625,Science,Logical Thinking,Marketing,62,Introvert,Start a business,Low,Doctor,Python Basics,Need-based Aid
+626,Technology,Leadership,Statistics,99,Ambivert,Start a business,Low,Designer,Graphic Design,Need-based Aid
+627,Science,Communication,Marketing,52,Introvert,Develop new skills,Medium,Mechanical Engineer,Data Science Intro,Arts Talent Scholarship
+628,Science,Logical Thinking,Marketing,59,Ambivert,Start a business,Low,Teacher,Graphic Design,Need-based Aid
+629,Medicine,Logical Thinking,Physics,59,Ambivert,Develop new skills,Medium,Doctor,Graphic Design,National Merit Scholarship
+630,Science,Leadership,Python,73,Extrovert,Develop new skills,High,Entrepreneur,Math Foundations,Need-based Aid
+631,Medicine,Analysis,Physics,86,Extrovert,Start a business,Low,Designer,Biology 101,Need-based Aid
+632,Technology,Problem Solving,Marketing,66,Extrovert,Get a good job,Medium,Doctor,Biology 101,Arts Talent Scholarship
+633,Science,Communication,Marketing,84,Ambivert,Start a business,Low,Entrepreneur,Math Foundations,Arts Talent Scholarship
+634,Sports,Analysis,Statistics,85,Extrovert,Start a business,Low,Designer,Business Management,STEM Scholarship
+635,Design,Problem Solving,Biology,98,Introvert,Higher studies,Low,Software Engineer,Math Foundations,Arts Talent Scholarship
+636,Technology,Leadership,Python,81,Ambivert,Get a good job,High,Entrepreneur,Graphic Design,Arts Talent Scholarship
+637,Design,Analysis,Drawing,65,Introvert,Develop new skills,Medium,Data Analyst,Biology 101,Need-based Aid
+638,Business,Analysis,Statistics,57,Introvert,Get a good job,High,Entrepreneur,Python Basics,National Merit Scholarship
+639,Maths,Communication,Statistics,83,Extrovert,Develop new skills,Low,Data Analyst,Data Science Intro,STEM Scholarship
+640,Design,Communication,Public Speaking,89,Introvert,Start a business,Low,Mechanical Engineer,Math Foundations,Arts Talent Scholarship
+641,Maths,Communication,Biology,90,Extrovert,Develop new skills,Low,Doctor,Business Management,Arts Talent Scholarship
+642,Arts,Leadership,Physics,92,Ambivert,Higher studies,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+643,Medicine,Analysis,Biology,63,Ambivert,Develop new skills,High,Doctor,Graphic Design,National Merit Scholarship
+644,Sports,Creativity,Java,78,Ambivert,Higher studies,Low,Data Analyst,Biology 101,STEM Scholarship
+645,Medicine,Problem Solving,Statistics,65,Extrovert,Higher studies,Low,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+646,Maths,Logical Thinking,Marketing,91,Extrovert,Develop new skills,Low,Doctor,Python Basics,Arts Talent Scholarship
+647,Sports,Analysis,Statistics,89,Extrovert,Start a business,Medium,Teacher,Python Basics,National Merit Scholarship
+648,Medicine,Leadership,Public Speaking,72,Introvert,Start a business,High,Designer,Graphic Design,National Merit Scholarship
+649,Design,Leadership,Python,86,Introvert,Get a good job,Medium,Designer,Math Foundations,Need-based Aid
+650,Technology,Analysis,Statistics,54,Extrovert,Start a business,High,Doctor,Python Basics,Need-based Aid
+651,Business,Logical Thinking,Public Speaking,75,Extrovert,Start a business,Low,Doctor,Business Management,Need-based Aid
+652,Business,Creativity,Public Speaking,64,Extrovert,Get a good job,Low,Designer,Math Foundations,STEM Scholarship
+653,Arts,Logical Thinking,Public Speaking,56,Ambivert,Start a business,High,Data Analyst,Math Foundations,Need-based Aid
+654,Arts,Analysis,Drawing,90,Introvert,Start a business,Low,Entrepreneur,Business Management,STEM Scholarship
+655,Science,Leadership,Marketing,61,Introvert,Start a business,Medium,Software Engineer,Biology 101,National Merit Scholarship
+656,Sports,Leadership,Java,88,Ambivert,Develop new skills,Low,Doctor,Graphic Design,STEM Scholarship
+657,Medicine,Communication,Statistics,100,Extrovert,Higher studies,Medium,Doctor,Graphic Design,Need-based Aid
+658,Arts,Analysis,Marketing,67,Introvert,Start a business,High,Data Analyst,Data Science Intro,Arts Talent Scholarship
+659,Science,Problem Solving,Physics,52,Extrovert,Higher studies,High,Teacher,Biology 101,Arts Talent Scholarship
+660,Science,Analysis,Physics,52,Extrovert,Get a good job,High,Doctor,Data Science Intro,Need-based Aid
+661,Maths,Communication,Public Speaking,96,Ambivert,Develop new skills,Medium,Entrepreneur,Python Basics,Arts Talent Scholarship
+662,Maths,Communication,Statistics,77,Introvert,Get a good job,Medium,Entrepreneur,Graphic Design,National Merit Scholarship
+663,Arts,Communication,Marketing,58,Introvert,Develop new skills,High,Mechanical Engineer,Data Science Intro,Arts Talent Scholarship
+664,Science,Logical Thinking,Public Speaking,71,Introvert,Get a good job,Low,Data Analyst,Graphic Design,STEM Scholarship
+665,Maths,Creativity,Public Speaking,74,Ambivert,Develop new skills,Low,Mechanical Engineer,Graphic Design,STEM Scholarship
+666,Arts,Creativity,Physics,60,Ambivert,Start a business,Medium,Software Engineer,Business Management,Arts Talent Scholarship
+667,Technology,Creativity,Biology,58,Ambivert,Develop new skills,Medium,Teacher,Biology 101,Arts Talent Scholarship
+668,Arts,Logical Thinking,Biology,50,Extrovert,Get a good job,Medium,Teacher,Python Basics,National Merit Scholarship
+669,Business,Leadership,Drawing,74,Introvert,Develop new skills,High,Software Engineer,Business Management,STEM Scholarship
+670,Maths,Communication,Marketing,90,Extrovert,Develop new skills,Low,Teacher,Python Basics,Need-based Aid
+671,Arts,Analysis,Statistics,64,Ambivert,Develop new skills,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+672,Science,Analysis,Java,73,Ambivert,Start a business,Low,Entrepreneur,Business Management,National Merit Scholarship
+673,Business,Analysis,Drawing,58,Introvert,Develop new skills,Low,Designer,Business Management,Need-based Aid
+674,Sports,Creativity,Physics,72,Extrovert,Start a business,Medium,Teacher,Business Management,STEM Scholarship
+675,Design,Communication,Public Speaking,61,Ambivert,Get a good job,Low,Doctor,Python Basics,STEM Scholarship
+676,Arts,Communication,Physics,54,Extrovert,Develop new skills,High,Doctor,Math Foundations,STEM Scholarship
+677,Maths,Problem Solving,Marketing,64,Extrovert,Start a business,Medium,Entrepreneur,Python Basics,Need-based Aid
+678,Maths,Analysis,Drawing,76,Extrovert,Develop new skills,High,Teacher,Data Science Intro,STEM Scholarship
+679,Design,Leadership,Public Speaking,62,Extrovert,Get a good job,High,Doctor,Business Management,Arts Talent Scholarship
+680,Business,Communication,Statistics,96,Ambivert,Higher studies,Low,Software Engineer,Python Basics,Need-based Aid
+681,Business,Problem Solving,Java,66,Introvert,Develop new skills,Medium,Data Analyst,Business Management,STEM Scholarship
+682,Maths,Logical Thinking,Biology,54,Ambivert,Develop new skills,Medium,Doctor,Data Science Intro,Need-based Aid
+683,Arts,Analysis,Physics,87,Extrovert,Start a business,Low,Software Engineer,Graphic Design,National Merit Scholarship
+684,Design,Leadership,Java,56,Extrovert,Develop new skills,Low,Data Analyst,Math Foundations,Arts Talent Scholarship
+685,Sports,Logical Thinking,Drawing,69,Extrovert,Develop new skills,Medium,Mechanical Engineer,Python Basics,Arts Talent Scholarship
+686,Design,Logical Thinking,Marketing,79,Extrovert,Get a good job,Low,Designer,Data Science Intro,Need-based Aid
+687,Science,Problem Solving,Public Speaking,96,Extrovert,Get a good job,Medium,Designer,Python Basics,National Merit Scholarship
+688,Medicine,Communication,Java,72,Extrovert,Get a good job,Low,Doctor,Business Management,National Merit Scholarship
+689,Medicine,Leadership,Public Speaking,68,Introvert,Higher studies,Medium,Teacher,Math Foundations,STEM Scholarship
+690,Arts,Logical Thinking,Java,100,Introvert,Higher studies,Low,Designer,Python Basics,STEM Scholarship
+691,Technology,Logical Thinking,Drawing,97,Extrovert,Higher studies,Low,Software Engineer,Math Foundations,National Merit Scholarship
+692,Design,Communication,Public Speaking,91,Ambivert,Get a good job,Low,Teacher,Data Science Intro,Arts Talent Scholarship
+693,Sports,Communication,Drawing,84,Introvert,Develop new skills,High,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+694,Arts,Communication,Drawing,87,Ambivert,Develop new skills,Low,Doctor,Graphic Design,STEM Scholarship
+695,Business,Analysis,Public Speaking,59,Ambivert,Start a business,Medium,Teacher,Business Management,STEM Scholarship
+696,Medicine,Communication,Public Speaking,70,Ambivert,Start a business,High,Mechanical Engineer,Graphic Design,National Merit Scholarship
+697,Technology,Analysis,Physics,58,Ambivert,Higher studies,Low,Software Engineer,Data Science Intro,Arts Talent Scholarship
+698,Maths,Logical Thinking,Python,59,Ambivert,Higher studies,Medium,Mechanical Engineer,Python Basics,Arts Talent Scholarship
+699,Technology,Leadership,Java,95,Extrovert,Get a good job,Low,Doctor,Python Basics,Need-based Aid
+700,Business,Creativity,Public Speaking,67,Introvert,Get a good job,High,Mechanical Engineer,Math Foundations,Arts Talent Scholarship
+701,Design,Problem Solving,Physics,65,Extrovert,Get a good job,High,Data Analyst,Math Foundations,National Merit Scholarship
+702,Sports,Analysis,Biology,76,Introvert,Develop new skills,Medium,Data Analyst,Graphic Design,STEM Scholarship
+703,Design,Analysis,Statistics,69,Introvert,Develop new skills,Medium,Data Analyst,Biology 101,Arts Talent Scholarship
+704,Business,Analysis,Java,71,Ambivert,Higher studies,Low,Mechanical Engineer,Math Foundations,Need-based Aid
+705,Business,Communication,Marketing,91,Ambivert,Develop new skills,Medium,Software Engineer,Python Basics,STEM Scholarship
+706,Design,Analysis,Public Speaking,100,Ambivert,Get a good job,High,Doctor,Graphic Design,National Merit Scholarship
+707,Arts,Analysis,Public Speaking,63,Ambivert,Higher studies,Low,Doctor,Data Science Intro,Need-based Aid
+708,Arts,Problem Solving,Drawing,81,Ambivert,Develop new skills,High,Doctor,Python Basics,Need-based Aid
+709,Sports,Logical Thinking,Python,79,Ambivert,Develop new skills,Low,Entrepreneur,Graphic Design,Need-based Aid
+710,Technology,Logical Thinking,Biology,63,Extrovert,Get a good job,High,Doctor,Graphic Design,STEM Scholarship
+711,Sports,Logical Thinking,Drawing,76,Extrovert,Get a good job,Low,Doctor,Biology 101,Need-based Aid
+712,Business,Logical Thinking,Python,56,Introvert,Develop new skills,Medium,Doctor,Data Science Intro,STEM Scholarship
+713,Sports,Logical Thinking,Physics,87,Ambivert,Higher studies,High,Mechanical Engineer,Graphic Design,Arts Talent Scholarship
+714,Design,Leadership,Biology,71,Introvert,Higher studies,Medium,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+715,Business,Leadership,Statistics,97,Extrovert,Develop new skills,High,Mechanical Engineer,Graphic Design,Need-based Aid
+716,Business,Problem Solving,Physics,93,Ambivert,Get a good job,Medium,Data Analyst,Python Basics,STEM Scholarship
+717,Maths,Creativity,Python,97,Extrovert,Higher studies,High,Teacher,Python Basics,Arts Talent Scholarship
+718,Design,Leadership,Drawing,67,Ambivert,Start a business,Medium,Software Engineer,Biology 101,Need-based Aid
+719,Business,Leadership,Java,63,Extrovert,Develop new skills,High,Entrepreneur,Graphic Design,Need-based Aid
+720,Technology,Logical Thinking,Python,59,Introvert,Develop new skills,Low,Entrepreneur,Math Foundations,STEM Scholarship
+721,Sports,Problem Solving,Marketing,90,Introvert,Develop new skills,Low,Mechanical Engineer,Biology 101,National Merit Scholarship
+722,Medicine,Problem Solving,Public Speaking,55,Ambivert,Develop new skills,Low,Entrepreneur,Math Foundations,National Merit Scholarship
+723,Technology,Analysis,Python,72,Extrovert,Develop new skills,Medium,Designer,Business Management,Need-based Aid
+724,Sports,Logical Thinking,Statistics,76,Introvert,Start a business,Low,Entrepreneur,Graphic Design,Arts Talent Scholarship
+725,Maths,Analysis,Public Speaking,58,Ambivert,Higher studies,High,Designer,Data Science Intro,National Merit Scholarship
+726,Science,Leadership,Drawing,52,Extrovert,Develop new skills,Medium,Doctor,Python Basics,Need-based Aid
+727,Business,Leadership,Biology,78,Extrovert,Start a business,Low,Designer,Graphic Design,Need-based Aid
+728,Technology,Communication,Biology,74,Extrovert,Start a business,Medium,Doctor,Data Science Intro,National Merit Scholarship
+729,Arts,Problem Solving,Marketing,56,Introvert,Get a good job,Low,Teacher,Data Science Intro,STEM Scholarship
+730,Sports,Analysis,Statistics,70,Extrovert,Higher studies,High,Software Engineer,Math Foundations,STEM Scholarship
+731,Maths,Problem Solving,Python,62,Ambivert,Get a good job,High,Software Engineer,Business Management,National Merit Scholarship
+732,Maths,Problem Solving,Physics,78,Ambivert,Get a good job,High,Teacher,Python Basics,Arts Talent Scholarship
+733,Design,Creativity,Physics,64,Introvert,Get a good job,High,Entrepreneur,Data Science Intro,STEM Scholarship
+734,Sports,Creativity,Statistics,80,Introvert,Higher studies,High,Mechanical Engineer,Business Management,Arts Talent Scholarship
+735,Medicine,Logical Thinking,Marketing,66,Ambivert,Get a good job,Low,Data Analyst,Python Basics,Arts Talent Scholarship
+736,Science,Communication,Marketing,63,Ambivert,Higher studies,Medium,Entrepreneur,Graphic Design,Arts Talent Scholarship
+737,Technology,Leadership,Public Speaking,67,Extrovert,Higher studies,Low,Software Engineer,Data Science Intro,Arts Talent Scholarship
+738,Design,Problem Solving,Statistics,51,Extrovert,Higher studies,Low,Software Engineer,Business Management,Arts Talent Scholarship
+739,Business,Logical Thinking,Statistics,90,Introvert,Develop new skills,High,Mechanical Engineer,Math Foundations,National Merit Scholarship
+740,Business,Communication,Physics,91,Extrovert,Develop new skills,High,Software Engineer,Graphic Design,Need-based Aid
+741,Medicine,Leadership,Biology,90,Introvert,Higher studies,Medium,Mechanical Engineer,Biology 101,Need-based Aid
+742,Business,Leadership,Drawing,76,Introvert,Higher studies,Medium,Designer,Graphic Design,STEM Scholarship
+743,Business,Analysis,Python,54,Introvert,Higher studies,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+744,Business,Creativity,Biology,61,Extrovert,Get a good job,High,Entrepreneur,Biology 101,STEM Scholarship
+745,Maths,Leadership,Biology,81,Ambivert,Start a business,Medium,Teacher,Graphic Design,National Merit Scholarship
+746,Sports,Creativity,Public Speaking,53,Introvert,Develop new skills,Low,Entrepreneur,Python Basics,Arts Talent Scholarship
+747,Sports,Creativity,Biology,60,Extrovert,Start a business,Medium,Entrepreneur,Python Basics,Need-based Aid
+748,Medicine,Communication,Biology,62,Extrovert,Higher studies,High,Software Engineer,Python Basics,Need-based Aid
+749,Maths,Logical Thinking,Marketing,78,Ambivert,Get a good job,Medium,Doctor,Math Foundations,STEM Scholarship
+750,Science,Problem Solving,Python,94,Introvert,Develop new skills,Medium,Entrepreneur,Python Basics,STEM Scholarship
+751,Maths,Leadership,Drawing,82,Extrovert,Higher studies,Low,Doctor,Math Foundations,Need-based Aid
+752,Science,Analysis,Drawing,64,Introvert,Develop new skills,Low,Mechanical Engineer,Data Science Intro,Need-based Aid
+753,Maths,Problem Solving,Physics,92,Ambivert,Get a good job,Medium,Data Analyst,Graphic Design,Arts Talent Scholarship
+754,Design,Leadership,Drawing,75,Introvert,Develop new skills,High,Designer,Graphic Design,Need-based Aid
+755,Design,Leadership,Biology,83,Extrovert,Start a business,High,Doctor,Python Basics,Need-based Aid
+756,Technology,Leadership,Drawing,68,Introvert,Get a good job,Medium,Designer,Math Foundations,Arts Talent Scholarship
+757,Arts,Creativity,Physics,96,Introvert,Higher studies,Low,Doctor,Graphic Design,National Merit Scholarship
+758,Design,Problem Solving,Python,52,Ambivert,Start a business,Low,Mechanical Engineer,Math Foundations,STEM Scholarship
+759,Design,Problem Solving,Physics,53,Extrovert,Get a good job,Medium,Software Engineer,Business Management,STEM Scholarship
+760,Maths,Communication,Java,88,Ambivert,Develop new skills,Low,Software Engineer,Python Basics,National Merit Scholarship
+761,Maths,Logical Thinking,Drawing,78,Introvert,Get a good job,Medium,Doctor,Python Basics,STEM Scholarship
+762,Medicine,Analysis,Java,77,Ambivert,Get a good job,Low,Teacher,Biology 101,Need-based Aid
+763,Arts,Creativity,Physics,50,Ambivert,Higher studies,Medium,Software Engineer,Biology 101,STEM Scholarship
+764,Sports,Creativity,Java,96,Extrovert,Develop new skills,High,Teacher,Graphic Design,National Merit Scholarship
+765,Design,Problem Solving,Physics,68,Introvert,Get a good job,Medium,Teacher,Graphic Design,STEM Scholarship
+766,Maths,Problem Solving,Biology,60,Ambivert,Higher studies,Medium,Data Analyst,Python Basics,National Merit Scholarship
+767,Business,Logical Thinking,Physics,87,Extrovert,Develop new skills,Medium,Mechanical Engineer,Data Science Intro,Arts Talent Scholarship
+768,Maths,Problem Solving,Python,89,Extrovert,Develop new skills,High,Mechanical Engineer,Data Science Intro,Need-based Aid
+769,Design,Creativity,Python,53,Introvert,Start a business,Medium,Entrepreneur,Business Management,Need-based Aid
+770,Design,Analysis,Biology,78,Introvert,Develop new skills,High,Data Analyst,Biology 101,National Merit Scholarship
+771,Design,Communication,Physics,80,Ambivert,Start a business,High,Doctor,Business Management,National Merit Scholarship
+772,Sports,Leadership,Java,63,Extrovert,Get a good job,Medium,Designer,Business Management,National Merit Scholarship
+773,Sports,Communication,Biology,83,Introvert,Higher studies,Medium,Teacher,Data Science Intro,Need-based Aid
+774,Maths,Leadership,Statistics,96,Introvert,Higher studies,High,Teacher,Business Management,STEM Scholarship
+775,Sports,Analysis,Statistics,63,Extrovert,Get a good job,Low,Doctor,Graphic Design,National Merit Scholarship
+776,Maths,Leadership,Statistics,51,Extrovert,Get a good job,High,Doctor,Graphic Design,STEM Scholarship
+777,Arts,Problem Solving,Drawing,93,Introvert,Higher studies,Medium,Mechanical Engineer,Biology 101,Arts Talent Scholarship
+778,Business,Leadership,Public Speaking,99,Extrovert,Start a business,Low,Mechanical Engineer,Graphic Design,Need-based Aid
+779,Maths,Analysis,Physics,94,Ambivert,Start a business,Low,Doctor,Math Foundations,STEM Scholarship
+780,Science,Communication,Public Speaking,76,Extrovert,Develop new skills,Low,Teacher,Data Science Intro,Need-based Aid
+781,Medicine,Analysis,Statistics,88,Extrovert,Higher studies,Low,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+782,Sports,Problem Solving,Python,83,Extrovert,Higher studies,Low,Software Engineer,Math Foundations,Arts Talent Scholarship
+783,Science,Problem Solving,Biology,84,Ambivert,Start a business,Medium,Teacher,Data Science Intro,Need-based Aid
+784,Maths,Analysis,Drawing,53,Extrovert,Develop new skills,Low,Teacher,Data Science Intro,National Merit Scholarship
+785,Technology,Problem Solving,Python,70,Extrovert,Get a good job,Low,Mechanical Engineer,Biology 101,STEM Scholarship
+786,Arts,Logical Thinking,Physics,96,Extrovert,Get a good job,Low,Designer,Graphic Design,Arts Talent Scholarship
+787,Sports,Communication,Python,86,Extrovert,Develop new skills,Low,Software Engineer,Math Foundations,Need-based Aid
+788,Science,Leadership,Drawing,64,Extrovert,Develop new skills,Low,Data Analyst,Business Management,Need-based Aid
+789,Sports,Logical Thinking,Python,57,Ambivert,Get a good job,Medium,Designer,Business Management,Need-based Aid
+790,Arts,Analysis,Drawing,76,Extrovert,Start a business,High,Data Analyst,Python Basics,National Merit Scholarship
+791,Maths,Creativity,Public Speaking,69,Ambivert,Develop new skills,High,Entrepreneur,Data Science Intro,STEM Scholarship
+792,Design,Leadership,Physics,80,Extrovert,Develop new skills,High,Teacher,Business Management,National Merit Scholarship
+793,Medicine,Communication,Public Speaking,55,Ambivert,Develop new skills,Medium,Teacher,Biology 101,STEM Scholarship
+794,Maths,Creativity,Physics,76,Ambivert,Develop new skills,Low,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+795,Design,Analysis,Python,57,Extrovert,Get a good job,Low,Mechanical Engineer,Graphic Design,National Merit Scholarship
+796,Arts,Logical Thinking,Physics,76,Introvert,Higher studies,Medium,Doctor,Graphic Design,STEM Scholarship
+797,Design,Communication,Marketing,68,Introvert,Develop new skills,Low,Software Engineer,Business Management,Need-based Aid
+798,Science,Communication,Marketing,93,Ambivert,Higher studies,High,Entrepreneur,Business Management,National Merit Scholarship
+799,Business,Communication,Statistics,75,Ambivert,Start a business,Medium,Doctor,Data Science Intro,STEM Scholarship
+800,Business,Leadership,Statistics,80,Introvert,Higher studies,Medium,Data Analyst,Graphic Design,National Merit Scholarship
+801,Design,Communication,Statistics,86,Extrovert,Higher studies,High,Designer,Graphic Design,Arts Talent Scholarship
+802,Technology,Logical Thinking,Biology,74,Ambivert,Start a business,High,Data Analyst,Data Science Intro,National Merit Scholarship
+803,Maths,Communication,Python,98,Extrovert,Start a business,Low,Data Analyst,Graphic Design,Need-based Aid
+804,Science,Creativity,Drawing,89,Extrovert,Develop new skills,Low,Mechanical Engineer,Math Foundations,Arts Talent Scholarship
+805,Business,Analysis,Biology,67,Extrovert,Higher studies,Low,Teacher,Graphic Design,National Merit Scholarship
+806,Maths,Analysis,Marketing,98,Ambivert,Start a business,High,Designer,Python Basics,National Merit Scholarship
+807,Business,Leadership,Biology,95,Introvert,Develop new skills,Low,Data Analyst,Math Foundations,Need-based Aid
+808,Technology,Creativity,Marketing,85,Introvert,Start a business,Medium,Mechanical Engineer,Business Management,Need-based Aid
+809,Medicine,Creativity,Marketing,77,Ambivert,Start a business,High,Data Analyst,Biology 101,National Merit Scholarship
+810,Medicine,Communication,Statistics,58,Introvert,Higher studies,Low,Designer,Python Basics,STEM Scholarship
+811,Business,Analysis,Biology,77,Extrovert,Higher studies,Low,Software Engineer,Business Management,Arts Talent Scholarship
+812,Business,Analysis,Biology,76,Ambivert,Higher studies,High,Doctor,Biology 101,Arts Talent Scholarship
+813,Sports,Analysis,Public Speaking,87,Ambivert,Develop new skills,Medium,Entrepreneur,Business Management,Arts Talent Scholarship
+814,Sports,Problem Solving,Python,93,Ambivert,Develop new skills,Low,Data Analyst,Business Management,National Merit Scholarship
+815,Science,Analysis,Public Speaking,77,Ambivert,Develop new skills,High,Mechanical Engineer,Python Basics,Arts Talent Scholarship
+816,Business,Communication,Python,50,Ambivert,Higher studies,Low,Mechanical Engineer,Graphic Design,STEM Scholarship
+817,Maths,Creativity,Public Speaking,87,Introvert,Develop new skills,Low,Designer,Graphic Design,Arts Talent Scholarship
+818,Science,Creativity,Public Speaking,54,Ambivert,Get a good job,Medium,Doctor,Math Foundations,National Merit Scholarship
+819,Sports,Creativity,Marketing,81,Extrovert,Get a good job,Low,Doctor,Math Foundations,STEM Scholarship
+820,Sports,Communication,Biology,52,Extrovert,Higher studies,High,Doctor,Graphic Design,Arts Talent Scholarship
+821,Business,Problem Solving,Public Speaking,78,Ambivert,Start a business,Low,Data Analyst,Graphic Design,Need-based Aid
+822,Sports,Communication,Statistics,62,Ambivert,Develop new skills,Low,Mechanical Engineer,Math Foundations,Need-based Aid
+823,Technology,Logical Thinking,Marketing,58,Introvert,Get a good job,Low,Software Engineer,Data Science Intro,National Merit Scholarship
+824,Science,Creativity,Marketing,86,Extrovert,Develop new skills,Medium,Designer,Python Basics,STEM Scholarship
+825,Business,Logical Thinking,Biology,82,Ambivert,Develop new skills,Low,Software Engineer,Business Management,Arts Talent Scholarship
+826,Arts,Analysis,Drawing,51,Ambivert,Start a business,Low,Designer,Data Science Intro,STEM Scholarship
+827,Maths,Creativity,Physics,92,Ambivert,Higher studies,High,Entrepreneur,Math Foundations,STEM Scholarship
+828,Business,Creativity,Drawing,91,Ambivert,Start a business,Low,Software Engineer,Business Management,STEM Scholarship
+829,Technology,Creativity,Marketing,59,Introvert,Get a good job,Medium,Teacher,Biology 101,National Merit Scholarship
+830,Technology,Logical Thinking,Drawing,55,Introvert,Develop new skills,High,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+831,Technology,Analysis,Biology,93,Ambivert,Get a good job,High,Data Analyst,Data Science Intro,STEM Scholarship
+832,Maths,Communication,Python,94,Extrovert,Higher studies,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+833,Sports,Analysis,Drawing,78,Introvert,Higher studies,High,Mechanical Engineer,Python Basics,Need-based Aid
+834,Arts,Problem Solving,Biology,83,Introvert,Get a good job,Medium,Designer,Graphic Design,National Merit Scholarship
+835,Arts,Communication,Marketing,50,Ambivert,Start a business,High,Software Engineer,Graphic Design,Need-based Aid
+836,Design,Communication,Public Speaking,64,Ambivert,Get a good job,Medium,Entrepreneur,Python Basics,Arts Talent Scholarship
+837,Maths,Leadership,Physics,63,Ambivert,Higher studies,Low,Designer,Biology 101,Arts Talent Scholarship
+838,Technology,Analysis,Python,90,Introvert,Start a business,Medium,Teacher,Business Management,STEM Scholarship
+839,Business,Analysis,Drawing,97,Introvert,Higher studies,High,Teacher,Python Basics,Arts Talent Scholarship
+840,Medicine,Logical Thinking,Java,72,Introvert,Higher studies,Medium,Doctor,Biology 101,Arts Talent Scholarship
+841,Medicine,Problem Solving,Physics,96,Ambivert,Start a business,Low,Entrepreneur,Business Management,Need-based Aid
+842,Arts,Creativity,Statistics,89,Introvert,Develop new skills,High,Designer,Business Management,Need-based Aid
+843,Medicine,Communication,Public Speaking,82,Extrovert,Start a business,Medium,Software Engineer,Graphic Design,STEM Scholarship
+844,Maths,Leadership,Physics,62,Extrovert,Get a good job,Low,Doctor,Python Basics,Arts Talent Scholarship
+845,Technology,Analysis,Public Speaking,61,Extrovert,Get a good job,Medium,Designer,Biology 101,Need-based Aid
+846,Sports,Communication,Marketing,72,Ambivert,Get a good job,Medium,Mechanical Engineer,Biology 101,Need-based Aid
+847,Maths,Problem Solving,Java,71,Ambivert,Develop new skills,Low,Designer,Graphic Design,Need-based Aid
+848,Science,Creativity,Marketing,96,Ambivert,Higher studies,Medium,Data Analyst,Data Science Intro,Arts Talent Scholarship
+849,Arts,Leadership,Python,51,Ambivert,Start a business,Medium,Software Engineer,Business Management,STEM Scholarship
+850,Science,Leadership,Physics,86,Introvert,Higher studies,Low,Data Analyst,Biology 101,Arts Talent Scholarship
+851,Design,Leadership,Java,60,Introvert,Start a business,High,Doctor,Graphic Design,National Merit Scholarship
+852,Sports,Problem Solving,Drawing,69,Extrovert,Higher studies,Low,Mechanical Engineer,Graphic Design,STEM Scholarship
+853,Maths,Creativity,Java,73,Introvert,Get a good job,High,Entrepreneur,Python Basics,Arts Talent Scholarship
+854,Arts,Leadership,Physics,69,Ambivert,Higher studies,High,Entrepreneur,Graphic Design,National Merit Scholarship
+855,Science,Logical Thinking,Marketing,94,Ambivert,Get a good job,Low,Data Analyst,Biology 101,National Merit Scholarship
+856,Arts,Communication,Marketing,63,Introvert,Start a business,Low,Software Engineer,Math Foundations,National Merit Scholarship
+857,Medicine,Communication,Biology,87,Introvert,Develop new skills,Medium,Designer,Math Foundations,STEM Scholarship
+858,Medicine,Logical Thinking,Biology,96,Ambivert,Start a business,High,Software Engineer,Business Management,Need-based Aid
+859,Arts,Analysis,Biology,69,Extrovert,Start a business,High,Teacher,Business Management,Need-based Aid
+860,Maths,Logical Thinking,Statistics,88,Ambivert,Get a good job,Low,Data Analyst,Math Foundations,National Merit Scholarship
+861,Sports,Analysis,Statistics,78,Introvert,Get a good job,Low,Mechanical Engineer,Graphic Design,STEM Scholarship
+862,Arts,Communication,Marketing,98,Extrovert,Higher studies,Low,Designer,Graphic Design,Arts Talent Scholarship
+863,Design,Creativity,Physics,79,Extrovert,Develop new skills,High,Entrepreneur,Data Science Intro,STEM Scholarship
+864,Technology,Analysis,Java,98,Extrovert,Develop new skills,High,Software Engineer,Biology 101,Arts Talent Scholarship
+865,Science,Communication,Python,96,Extrovert,Develop new skills,Low,Mechanical Engineer,Python Basics,National Merit Scholarship
+866,Design,Analysis,Biology,53,Introvert,Start a business,Low,Entrepreneur,Python Basics,Arts Talent Scholarship
+867,Technology,Analysis,Statistics,54,Ambivert,Start a business,High,Entrepreneur,Biology 101,Arts Talent Scholarship
+868,Design,Leadership,Statistics,100,Ambivert,Develop new skills,Medium,Mechanical Engineer,Business Management,Need-based Aid
+869,Arts,Problem Solving,Physics,80,Extrovert,Higher studies,High,Software Engineer,Graphic Design,Need-based Aid
+870,Technology,Creativity,Drawing,91,Extrovert,Develop new skills,High,Data Analyst,Business Management,STEM Scholarship
+871,Medicine,Problem Solving,Java,53,Introvert,Develop new skills,High,Software Engineer,Python Basics,Arts Talent Scholarship
+872,Medicine,Problem Solving,Python,68,Introvert,Start a business,Medium,Software Engineer,Business Management,STEM Scholarship
+873,Maths,Logical Thinking,Java,96,Extrovert,Start a business,Low,Teacher,Data Science Intro,Need-based Aid
+874,Arts,Leadership,Physics,89,Ambivert,Start a business,High,Software Engineer,Graphic Design,STEM Scholarship
+875,Design,Creativity,Java,90,Extrovert,Start a business,Medium,Designer,Math Foundations,STEM Scholarship
+876,Science,Problem Solving,Physics,68,Introvert,Develop new skills,Medium,Mechanical Engineer,Graphic Design,Arts Talent Scholarship
+877,Sports,Communication,Public Speaking,69,Ambivert,Get a good job,Low,Designer,Graphic Design,Arts Talent Scholarship
+878,Arts,Logical Thinking,Statistics,98,Introvert,Get a good job,High,Doctor,Business Management,National Merit Scholarship
+879,Technology,Analysis,Marketing,80,Introvert,Develop new skills,High,Designer,Biology 101,National Merit Scholarship
+880,Design,Communication,Physics,70,Ambivert,Develop new skills,Medium,Mechanical Engineer,Business Management,National Merit Scholarship
+881,Business,Logical Thinking,Python,53,Ambivert,Start a business,High,Designer,Biology 101,STEM Scholarship
+882,Science,Logical Thinking,Statistics,87,Ambivert,Start a business,High,Mechanical Engineer,Data Science Intro,Need-based Aid
+883,Business,Problem Solving,Biology,82,Ambivert,Develop new skills,High,Data Analyst,Math Foundations,Arts Talent Scholarship
+884,Technology,Analysis,Python,84,Extrovert,Start a business,Medium,Data Analyst,Graphic Design,Arts Talent Scholarship
+885,Design,Leadership,Statistics,97,Extrovert,Start a business,Medium,Entrepreneur,Python Basics,Need-based Aid
+886,Sports,Problem Solving,Drawing,76,Extrovert,Develop new skills,High,Software Engineer,Business Management,Need-based Aid
+887,Arts,Logical Thinking,Public Speaking,52,Introvert,Start a business,Low,Software Engineer,Business Management,Arts Talent Scholarship
+888,Arts,Analysis,Marketing,63,Ambivert,Develop new skills,Medium,Data Analyst,Graphic Design,Arts Talent Scholarship
+889,Technology,Problem Solving,Python,97,Introvert,Develop new skills,Low,Teacher,Biology 101,STEM Scholarship
+890,Maths,Problem Solving,Biology,96,Extrovert,Develop new skills,High,Entrepreneur,Biology 101,Arts Talent Scholarship
+891,Design,Communication,Marketing,86,Ambivert,Get a good job,Low,Mechanical Engineer,Python Basics,STEM Scholarship
+892,Business,Creativity,Statistics,88,Introvert,Get a good job,Low,Data Analyst,Graphic Design,Need-based Aid
+893,Technology,Leadership,Biology,72,Ambivert,Develop new skills,Low,Doctor,Python Basics,National Merit Scholarship
+894,Medicine,Problem Solving,Biology,88,Extrovert,Get a good job,Medium,Teacher,Python Basics,STEM Scholarship
+895,Sports,Logical Thinking,Drawing,54,Introvert,Get a good job,Low,Software Engineer,Business Management,Arts Talent Scholarship
+896,Design,Logical Thinking,Statistics,71,Ambivert,Higher studies,High,Teacher,Python Basics,Need-based Aid
+897,Medicine,Logical Thinking,Physics,76,Extrovert,Start a business,Low,Entrepreneur,Data Science Intro,Need-based Aid
+898,Sports,Creativity,Statistics,91,Extrovert,Develop new skills,Medium,Software Engineer,Graphic Design,STEM Scholarship
+899,Sports,Leadership,Drawing,90,Introvert,Start a business,Medium,Data Analyst,Business Management,Arts Talent Scholarship
+900,Arts,Creativity,Statistics,68,Extrovert,Get a good job,High,Designer,Business Management,National Merit Scholarship
+901,Arts,Analysis,Drawing,54,Ambivert,Higher studies,Low,Data Analyst,Graphic Design,National Merit Scholarship
+902,Medicine,Problem Solving,Biology,67,Extrovert,Start a business,High,Software Engineer,Data Science Intro,National Merit Scholarship
+903,Medicine,Logical Thinking,Marketing,99,Extrovert,Develop new skills,High,Mechanical Engineer,Data Science Intro,STEM Scholarship
+904,Technology,Leadership,Biology,71,Ambivert,Develop new skills,High,Teacher,Data Science Intro,National Merit Scholarship
+905,Business,Logical Thinking,Statistics,55,Introvert,Develop new skills,Low,Data Analyst,Math Foundations,Need-based Aid
+906,Design,Leadership,Drawing,72,Extrovert,Higher studies,Medium,Data Analyst,Math Foundations,Arts Talent Scholarship
+907,Medicine,Problem Solving,Java,97,Introvert,Develop new skills,Low,Software Engineer,Business Management,Need-based Aid
+908,Medicine,Problem Solving,Java,69,Introvert,Develop new skills,Medium,Data Analyst,Data Science Intro,Need-based Aid
+909,Business,Problem Solving,Statistics,57,Introvert,Start a business,High,Data Analyst,Business Management,STEM Scholarship
+910,Medicine,Communication,Physics,66,Ambivert,Develop new skills,Medium,Mechanical Engineer,Data Science Intro,National Merit Scholarship
+911,Technology,Leadership,Marketing,66,Ambivert,Higher studies,Low,Data Analyst,Business Management,Need-based Aid
+912,Arts,Communication,Java,61,Extrovert,Start a business,Medium,Mechanical Engineer,Biology 101,STEM Scholarship
+913,Medicine,Creativity,Marketing,55,Introvert,Get a good job,High,Mechanical Engineer,Graphic Design,Arts Talent Scholarship
+914,Medicine,Problem Solving,Statistics,85,Ambivert,Higher studies,High,Data Analyst,Python Basics,National Merit Scholarship
+915,Business,Creativity,Physics,68,Extrovert,Get a good job,High,Mechanical Engineer,Graphic Design,National Merit Scholarship
+916,Sports,Analysis,Statistics,56,Ambivert,Develop new skills,Medium,Doctor,Math Foundations,Need-based Aid
+917,Sports,Creativity,Marketing,90,Extrovert,Develop new skills,High,Teacher,Math Foundations,Arts Talent Scholarship
+918,Design,Leadership,Java,100,Extrovert,Get a good job,High,Teacher,Data Science Intro,STEM Scholarship
+919,Sports,Communication,Marketing,69,Extrovert,Develop new skills,High,Doctor,Graphic Design,Arts Talent Scholarship
+920,Design,Communication,Biology,69,Extrovert,Develop new skills,High,Software Engineer,Data Science Intro,Need-based Aid
+921,Science,Logical Thinking,Java,54,Extrovert,Start a business,Low,Designer,Graphic Design,National Merit Scholarship
+922,Sports,Analysis,Python,67,Introvert,Higher studies,Low,Doctor,Math Foundations,Need-based Aid
+923,Science,Creativity,Statistics,61,Ambivert,Develop new skills,Low,Entrepreneur,Math Foundations,National Merit Scholarship
+924,Technology,Creativity,Marketing,89,Extrovert,Develop new skills,Low,Software Engineer,Data Science Intro,STEM Scholarship
+925,Sports,Communication,Public Speaking,71,Extrovert,Start a business,High,Designer,Data Science Intro,Arts Talent Scholarship
+926,Sports,Problem Solving,Python,68,Extrovert,Start a business,High,Mechanical Engineer,Biology 101,STEM Scholarship
+927,Design,Communication,Statistics,85,Introvert,Start a business,Low,Software Engineer,Business Management,STEM Scholarship
+928,Maths,Problem Solving,Python,59,Ambivert,Higher studies,Medium,Teacher,Biology 101,National Merit Scholarship
+929,Arts,Leadership,Java,74,Introvert,Higher studies,Low,Teacher,Graphic Design,Arts Talent Scholarship
+930,Maths,Communication,Biology,90,Ambivert,Get a good job,Low,Data Analyst,Math Foundations,STEM Scholarship
+931,Design,Analysis,Physics,86,Introvert,Higher studies,Low,Data Analyst,Python Basics,Arts Talent Scholarship
+932,Business,Communication,Biology,97,Extrovert,Develop new skills,Low,Entrepreneur,Graphic Design,Need-based Aid
+933,Business,Leadership,Physics,59,Extrovert,Get a good job,Medium,Designer,Business Management,STEM Scholarship
+934,Maths,Analysis,Biology,72,Introvert,Start a business,Low,Mechanical Engineer,Data Science Intro,Need-based Aid
+935,Business,Communication,Drawing,96,Ambivert,Get a good job,High,Data Analyst,Business Management,Arts Talent Scholarship
+936,Sports,Creativity,Drawing,75,Extrovert,Get a good job,Medium,Software Engineer,Business Management,Arts Talent Scholarship
+937,Business,Leadership,Public Speaking,95,Extrovert,Higher studies,High,Entrepreneur,Data Science Intro,National Merit Scholarship
+938,Arts,Analysis,Public Speaking,72,Ambivert,Higher studies,Low,Entrepreneur,Biology 101,STEM Scholarship
+939,Sports,Logical Thinking,Physics,86,Ambivert,Get a good job,High,Mechanical Engineer,Math Foundations,National Merit Scholarship
+940,Medicine,Logical Thinking,Physics,97,Introvert,Start a business,Medium,Data Analyst,Business Management,STEM Scholarship
+941,Science,Communication,Statistics,76,Extrovert,Get a good job,Low,Software Engineer,Biology 101,STEM Scholarship
+942,Science,Problem Solving,Marketing,76,Introvert,Start a business,Medium,Entrepreneur,Biology 101,National Merit Scholarship
+943,Science,Creativity,Java,95,Extrovert,Start a business,Medium,Teacher,Business Management,Arts Talent Scholarship
+944,Technology,Problem Solving,Biology,80,Extrovert,Start a business,Low,Teacher,Math Foundations,STEM Scholarship
+945,Design,Communication,Physics,50,Extrovert,Higher studies,Medium,Software Engineer,Python Basics,Arts Talent Scholarship
+946,Medicine,Problem Solving,Public Speaking,79,Ambivert,Higher studies,High,Entrepreneur,Graphic Design,STEM Scholarship
+947,Design,Analysis,Biology,55,Extrovert,Get a good job,Medium,Data Analyst,Graphic Design,Need-based Aid
+948,Business,Communication,Java,63,Introvert,Higher studies,Low,Designer,Business Management,Arts Talent Scholarship
+949,Design,Problem Solving,Marketing,86,Introvert,Start a business,Medium,Designer,Biology 101,National Merit Scholarship
+950,Arts,Creativity,Public Speaking,89,Extrovert,Get a good job,Low,Data Analyst,Data Science Intro,STEM Scholarship
+951,Medicine,Analysis,Biology,56,Extrovert,Start a business,High,Software Engineer,Math Foundations,Need-based Aid
+952,Maths,Problem Solving,Drawing,59,Introvert,Start a business,Medium,Software Engineer,Math Foundations,National Merit Scholarship
+953,Science,Problem Solving,Python,74,Introvert,Higher studies,High,Doctor,Business Management,STEM Scholarship
+954,Business,Leadership,Drawing,92,Ambivert,Start a business,Low,Software Engineer,Graphic Design,Arts Talent Scholarship
+955,Science,Creativity,Marketing,88,Extrovert,Start a business,High,Mechanical Engineer,Graphic Design,National Merit Scholarship
+956,Arts,Creativity,Statistics,95,Introvert,Develop new skills,Low,Doctor,Math Foundations,STEM Scholarship
+957,Sports,Communication,Python,50,Introvert,Develop new skills,High,Teacher,Python Basics,Need-based Aid
+958,Design,Analysis,Java,83,Ambivert,Start a business,High,Data Analyst,Biology 101,Arts Talent Scholarship
+959,Arts,Creativity,Biology,86,Ambivert,Higher studies,Low,Software Engineer,Biology 101,Need-based Aid
+960,Maths,Analysis,Biology,84,Extrovert,Get a good job,Medium,Teacher,Data Science Intro,STEM Scholarship
+961,Maths,Communication,Physics,58,Ambivert,Higher studies,High,Mechanical Engineer,Biology 101,Need-based Aid
+962,Maths,Logical Thinking,Statistics,71,Extrovert,Develop new skills,Medium,Software Engineer,Biology 101,STEM Scholarship
+963,Technology,Communication,Java,72,Introvert,Higher studies,High,Doctor,Python Basics,Need-based Aid
+964,Arts,Problem Solving,Java,78,Introvert,Get a good job,High,Doctor,Biology 101,National Merit Scholarship
+965,Sports,Leadership,Marketing,95,Ambivert,Develop new skills,High,Designer,Python Basics,Arts Talent Scholarship
+966,Maths,Communication,Physics,73,Ambivert,Get a good job,High,Software Engineer,Graphic Design,STEM Scholarship
+967,Sports,Analysis,Marketing,60,Introvert,Get a good job,Low,Entrepreneur,Python Basics,Arts Talent Scholarship
+968,Technology,Analysis,Biology,85,Ambivert,Develop new skills,Low,Entrepreneur,Graphic Design,STEM Scholarship
+969,Maths,Creativity,Marketing,52,Extrovert,Start a business,Medium,Mechanical Engineer,Data Science Intro,Need-based Aid
+970,Technology,Communication,Public Speaking,63,Extrovert,Higher studies,Low,Mechanical Engineer,Biology 101,STEM Scholarship
+971,Design,Creativity,Public Speaking,53,Extrovert,Higher studies,Low,Data Analyst,Business Management,Need-based Aid
+972,Sports,Creativity,Java,88,Ambivert,Higher studies,High,Software Engineer,Biology 101,Arts Talent Scholarship
+973,Design,Communication,Biology,90,Introvert,Develop new skills,Medium,Data Analyst,Math Foundations,STEM Scholarship
+974,Design,Analysis,Statistics,67,Introvert,Start a business,Medium,Doctor,Graphic Design,Need-based Aid
+975,Technology,Creativity,Java,54,Extrovert,Get a good job,Low,Software Engineer,Python Basics,STEM Scholarship
+976,Arts,Problem Solving,Physics,62,Ambivert,Start a business,Low,Doctor,Math Foundations,STEM Scholarship
+977,Science,Logical Thinking,Biology,86,Extrovert,Develop new skills,Medium,Entrepreneur,Data Science Intro,Need-based Aid
+978,Design,Logical Thinking,Statistics,64,Extrovert,Get a good job,Medium,Doctor,Graphic Design,Arts Talent Scholarship
+979,Arts,Problem Solving,Java,63,Introvert,Start a business,Low,Data Analyst,Math Foundations,National Merit Scholarship
+980,Business,Analysis,Python,89,Introvert,Start a business,Low,Teacher,Python Basics,Need-based Aid
+981,Technology,Creativity,Python,88,Introvert,Get a good job,High,Doctor,Biology 101,Arts Talent Scholarship
+982,Business,Problem Solving,Marketing,96,Extrovert,Higher studies,Medium,Entrepreneur,Business Management,Arts Talent Scholarship
+983,Technology,Leadership,Statistics,50,Extrovert,Get a good job,Medium,Designer,Math Foundations,STEM Scholarship
+984,Design,Creativity,Physics,59,Introvert,Get a good job,High,Data Analyst,Math Foundations,National Merit Scholarship
+985,Medicine,Analysis,Marketing,89,Extrovert,Start a business,Medium,Teacher,Data Science Intro,National Merit Scholarship
+986,Business,Problem Solving,Statistics,75,Introvert,Develop new skills,Low,Data Analyst,Data Science Intro,Arts Talent Scholarship
+987,Medicine,Communication,Drawing,83,Extrovert,Start a business,Medium,Data Analyst,Graphic Design,Need-based Aid
+988,Technology,Analysis,Java,90,Extrovert,Higher studies,Low,Entrepreneur,Graphic Design,Arts Talent Scholarship
+989,Design,Problem Solving,Physics,59,Ambivert,Get a good job,High,Data Analyst,Graphic Design,Arts Talent Scholarship
+990,Design,Creativity,Marketing,77,Extrovert,Start a business,Low,Teacher,Math Foundations,Need-based Aid
+991,Sports,Analysis,Marketing,73,Introvert,Higher studies,Low,Designer,Graphic Design,National Merit Scholarship
+992,Design,Problem Solving,Drawing,78,Extrovert,Get a good job,High,Mechanical Engineer,Business Management,Need-based Aid
+993,Sports,Creativity,Drawing,67,Ambivert,Get a good job,High,Mechanical Engineer,Business Management,Need-based Aid
+994,Maths,Logical Thinking,Drawing,77,Extrovert,Start a business,Low,Mechanical Engineer,Python Basics,Need-based Aid
+995,Maths,Logical Thinking,Java,56,Extrovert,Get a good job,Low,Doctor,Math Foundations,STEM Scholarship
+996,Arts,Logical Thinking,Marketing,69,Ambivert,Higher studies,Low,Data Analyst,Data Science Intro,Arts Talent Scholarship
+997,Sports,Communication,Marketing,52,Ambivert,Start a business,Low,Software Engineer,Biology 101,Need-based Aid
+998,Medicine,Problem Solving,Marketing,66,Extrovert,Develop new skills,Low,Software Engineer,Business Management,Arts Talent Scholarship
+999,Science,Problem Solving,Drawing,74,Introvert,Start a business,High,Entrepreneur,Graphic Design,National Merit Scholarship
+1000,Sports,Problem Solving,Biology,82,Extrovert,Higher studies,Low,Data Analyst,Graphic Design,STEM Scholarship
