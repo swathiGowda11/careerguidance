@@ -7,11 +7,36 @@ Original file is located at
     https://colab.research.google.com/drive/16ZwFRRW_I4XTbFWs0aOzD3nxhDo61vPR
 """
 
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+# -------------------------------
+# IMPORTS FOR STREAMLIT WEB APP
+# -------------------------------
 import streamlit as st
+
+# -------------------------------
+# DATA HANDLING
+# -------------------------------
+import pandas as pd
+import numpy as np
+
+# -------------------------------
+# VISUALIZATION
+# -------------------------------
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# -------------------------------
+# MACHINE LEARNING (Sklearn)
+# -------------------------------
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.metrics import accuracy_score, classification_report
+
+# -------------------------------
+# SYSTEM / WARNINGS (Optional)
+# -------------------------------
+import warnings
+warnings.filterwarnings("ignore")
+
 
 
 df = pd.read_csv('student_career_guidance_dataset_1000.csv')
