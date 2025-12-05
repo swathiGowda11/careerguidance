@@ -143,7 +143,7 @@ plt.show()
 
 # Calculate the frequency of each skill within each suggested career
 skill_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Skills'])
-display(skill_career_crosstab)
+st.dataframe(skill_career_crosstab)
 
 # Plotting the stacked bar chart
 plt.figure(figsize=(8, 5))
@@ -158,7 +158,7 @@ plt.show()
 
 # Calculate the frequency of each goal within each suggested career
 goal_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Goals'])
-display(goal_career_crosstab)
+st.dataframe(goal_career_crosstab)
 
 # Plotting the stacked bar chart
 plt.figure(figsize=(8, 5))
