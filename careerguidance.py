@@ -175,7 +175,7 @@ plt.show()
 
 # Calculate the frequency of each interest within each suggested career
 interest_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Interests'])
-display(interest_career_crosstab)
+st.dataframe(interest_career_crosstab)
 
 # Plotting the stacked bar chart
 plt.figure(figsize=(8, 5))
@@ -190,7 +190,7 @@ plt.show()
 
 # Calculate the frequency of each personality type within each suggested career
 personality_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Personality'])
-display(personality_career_crosstab)
+st.dataframe(personality_career_crosstab)
 
 # Plotting the stacked bar chart
 plt.figure(figsize=(8, 5))
@@ -207,7 +207,7 @@ plt.show()
 
 # Calculate the frequency of each personality type within each suggested career
 personality_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Personality'])
-display(personality_career_crosstab)
+st.dataframe(personality_career_crosstab)
 
 # Plotting the stacked bar chart
 plt.figure(figsize=(8,5))
@@ -222,7 +222,7 @@ plt.show()
 
 # Calculate the frequency of each personality type within each suggested career
 personality_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Personality'])
-display(personality_career_crosstab)
+st.dataframe(personality_career_crosstab)
 
 # Plotting the stacked bar chart
 plt.figure(figsize=(8, 5))
@@ -236,7 +236,7 @@ plt.tight_layout()
 plt.show()
 
 budget_career_crosstab = pd.crosstab(df['Suggested_Career'], df['Budget'])
-display(budget_career_crosstab)
+st.dataframe(budget_career_crosstab)
 
 plt.figure(figsize=(8, 5))
 budget_career_crosstab.plot(kind='bar', stacked=True, colormap='viridis', ax=plt.gca())
